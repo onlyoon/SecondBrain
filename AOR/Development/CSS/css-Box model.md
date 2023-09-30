@@ -1,6 +1,6 @@
 #aor 
 ### Box model
->[!info]
+>[!note]
 >#### 박스 모델
 >
 >>HTML의 모든 요소는 CSS에서 박스로 인식된다.

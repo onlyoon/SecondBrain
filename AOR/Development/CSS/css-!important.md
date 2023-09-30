@@ -1,6 +1,6 @@
 #aor 
 ### !important
->[!info]
+>[!note]
 >#### `!important`
 >
 >>명시도와 다른 모든 선택자를 덮어쓰게 하는 스타일  

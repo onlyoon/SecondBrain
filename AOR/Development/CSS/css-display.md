@@ -1,6 +1,6 @@
 #aor 
 ### display
->[!info]
+>[!note]
 >#### display
 >
 >>요소의 동작을 바꾸기 위해서 사용하는 프로퍼티

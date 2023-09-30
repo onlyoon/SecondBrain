@@ -1,6 +1,6 @@
 #aor 
 ### Shorthand Properties
->[!info]
+>[!note]
 >#### 프로퍼티 축약
 >
 >>여러 다른 프로퍼티의 값을 단일 프로퍼티로 결합된 것을 말한다.

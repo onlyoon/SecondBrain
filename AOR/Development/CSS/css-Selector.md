@@ -1,6 +1,6 @@
 #aor 
 ### Selector
->[!info]
+>[!note]
 >#### 선택자
 >
 >>DOM의 어떤 요소에 선언할 건지 CSS에게 알려주는 역할

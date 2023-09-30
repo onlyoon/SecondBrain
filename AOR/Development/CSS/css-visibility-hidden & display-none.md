@@ -1,11 +1,11 @@
 #aor 
 ### visibility-hidden
->[!info]
+>[!note]
 >#### `visibility: hidden`  
 >
 >>요소를 숨김  
 ### display-none
->[!info]
+>[!note]
 >#### `display: none`  
 >
 >>요소를 제거  

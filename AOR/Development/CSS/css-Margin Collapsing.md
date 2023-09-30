@@ -1,6 +1,6 @@
 #aor 
 ### Margin Collapsing
->[!info]
+>[!note]
 >#### 여백 상쇄
 >
 >>`margin-top`과 `margin-bottom`이 겹치는 현상이다.

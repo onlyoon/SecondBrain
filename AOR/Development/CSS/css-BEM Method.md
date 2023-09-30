@@ -1,6 +1,6 @@
 #aor 
 ### BEM Method
->[!info]
+>[!note]
 >#### BEM 방법론  
 >
 >>Block, Element, Modifier를 기준으로 작성하는 네이밍 규칙  

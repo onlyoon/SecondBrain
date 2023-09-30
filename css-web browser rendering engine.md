@@ -1,5 +1,5 @@
 ### Web Rendering Engine
->[!info]
+>[!note]
 >#### 웹 렌더링 엔진
 >
 >>브라우저의 핵심 구성 요소중 하나
