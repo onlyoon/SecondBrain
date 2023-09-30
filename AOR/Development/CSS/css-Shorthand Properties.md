@@ -11,4 +11,4 @@ margin: 5px 10px 5px 10px; /* top, left, bottom, right */
 margin: 5px 10px; /* top & bottom, left & right */  
 margin: 10px; /* 전체 적용 */  
 ```  
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

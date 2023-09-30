@@ -10,4 +10,4 @@
 	2. `#id` 선택자
 	3. `.class` | `:pseudo-class` | `[attribute]` 선택자
 	4. `<Tag>` | `::pseudo-element` 선택자
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

@@ -18,4 +18,4 @@
 - `display: none` 
 	- HTML문서 자체에서 사라지게 하지만 DOM에는 남아있음
 ---
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

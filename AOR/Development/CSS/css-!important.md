@@ -18,4 +18,4 @@ color: red !important;
 >>코드가 이해하기 어려워지니 사용 비권장
 >
 >>`!important` 두 번 사용시 일반 명시도 다시 적용 
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

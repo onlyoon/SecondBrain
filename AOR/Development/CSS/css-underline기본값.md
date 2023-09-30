@@ -5,4 +5,4 @@
 >
 >>1. `text-decoration: none` `<a>`태그에 직접 적용
 >>2. 결합자 사용
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

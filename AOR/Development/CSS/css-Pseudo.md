@@ -23,4 +23,4 @@
 	- `::before` : 요소 이전에 콘텐츠 추가  
 	- `::after`: 요소 이후에 콘텐츠 추가
 ---
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

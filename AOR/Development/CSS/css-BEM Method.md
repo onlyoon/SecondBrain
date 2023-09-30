@@ -13,4 +13,4 @@
 
 - 다른 네이밍 방법론  
 	- SMACSS, OOCSS  
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

@@ -18,4 +18,4 @@
 >>따라서 padding 추가시, margin에도 같이 포함된다.
 >
 >>body에는 margin이 있다.
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

@@ -28,4 +28,4 @@ div {
 
 >[!warning]
 >2023년 현재 `rgba()`함수는 레거시 구문이다.
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

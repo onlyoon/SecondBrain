@@ -9,4 +9,4 @@
 ```css  
 width: calc(100% - 49px);  
 ```
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

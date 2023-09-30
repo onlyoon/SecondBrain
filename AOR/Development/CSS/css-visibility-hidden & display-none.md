@@ -9,4 +9,4 @@
 >#### `display: none`  
 >
 >>요소를 제거  
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기

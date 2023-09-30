@@ -9,4 +9,4 @@
 ![[Pasted image 20230930144433.png]]
 ![[Pasted image 20230930144507.png]]
 
-### [[CSS]] Index로 돌아가기
+### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기
