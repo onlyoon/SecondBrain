@@ -1,6 +1,6 @@
 #index 
 ### Basics of CSS
-- [css-CSS](css-CSS.md)
+- [css-CSS](../Development/CSS/css-CSS.md)
 - [[css-Selector]]
 - [[css-Specificity]]
 - [[css-Inherit]]
