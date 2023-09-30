@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "7747e8b23e4e3662",
   "lastOpenFiles": [
+    "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-Garbage Collection & Memory Leak.md",
     "AOR/Development/JavaScript/Basic Grammar/js-TemplateLiteral.md",
@@ -172,7 +173,6 @@
     "AOR/Development/JavaScript/js-Spread 구문.md",
     "AOR/Development/JavaScript/Control Structure/js-Error Handling statement.md",
     "AOR/Development/JavaScript/js-REST 연산자.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-Event Loop.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-strict mode.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-let & const.md",
