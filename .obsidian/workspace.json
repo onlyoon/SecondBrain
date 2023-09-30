@@ -11,9 +11,11 @@
             "id": "7747e8b23e4e3662",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png"
+                "file": "README.md"
               }
             }
           },
@@ -155,15 +157,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a190077dc89d014",
+  "active": "7747e8b23e4e3662",
   "lastOpenFiles": [
+    "Home.md",
+    "README.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181931.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181850.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png",
     "Pasted image 20230930181734.png",
-    "Home.md",
     "AOR/Dev-Index/CSS.md",
     "css-CSSOM.md",
     "css-web browser rendering engine.md",
