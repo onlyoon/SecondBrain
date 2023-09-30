@@ -35,3 +35,6 @@
 		- 높은 정확도
 
 ![[Pasted image 20230929013602.png]]
+
+---
+### [Blender](../../Dev-Index/Blender.md) index로 돌아가기

@@ -1,7 +1,7 @@
 #aor
 ### Element Property Binding
 
->[!info]
+>[!note]
 >#### Svelte의 DataFlow
 >
 >> 기본적인 Svelte의 DataFlow는 단방향이라 Html Element의 Attribute의 변경 사항에 따라 변수를 바꾸지 않는다.
@@ -51,4 +51,4 @@ $: if (name === 'Wen') {
 >[!warning]
 >> 모든 컴포넌트의 `prop`에 양방향 바인딩을 하는건 버그가 발생하기가 쉽다. 
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

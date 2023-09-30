@@ -1,6 +1,6 @@
 #aor
 ### Event Modifier
->[!info]
+>[!note]
 >이벤트 수식어
 >
 >이벤트 구문 뒤에 추가하는 수식어(Modifier)
@@ -37,4 +37,4 @@ function add(event) {
 <button on:click={add}>{count}</button>
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

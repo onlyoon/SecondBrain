@@ -1,6 +1,6 @@
 #aor
 ### Component Life Cycle
->[!info]
+>[!note]
 >컴포넌트 생명주기
 >
 >> Svelte의 컴포넌트 생명 주기는 총 2개의 파트로 나뉜다.
@@ -69,4 +69,4 @@ onDestroy
 >
 >>함수 내부에서 호출은 불가능하다.
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

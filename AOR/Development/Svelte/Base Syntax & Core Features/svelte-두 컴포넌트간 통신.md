@@ -1,6 +1,6 @@
 #aor
 ### 두 컴포넌트간 통신
->[!info]
+>[!note]
 >#### 컴포넌트 property 전달
 >
 >> 방식 1. `<ContactCard userName="{name}" />`
@@ -28,4 +28,4 @@
 </div>
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

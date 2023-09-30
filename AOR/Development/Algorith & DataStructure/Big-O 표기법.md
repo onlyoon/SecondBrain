@@ -27,3 +27,5 @@
   2. 문자열은 O(n)의 공간을 필요로 한다.  
   3. 배열 객체 또한, O(n)의 공간을 필요로 한다.   
   - 각 변수에 따라서 공간에 대한 수를 따질 수 있다.
+---
+### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) index로 돌아가기

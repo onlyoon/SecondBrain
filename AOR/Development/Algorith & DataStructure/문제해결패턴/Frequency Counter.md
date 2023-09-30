@@ -1,6 +1,6 @@
 #aor
 ### 빈도 카운터 (Frequency Counter)  
-  
+
 - 자바스크립트 객체를 사용해서 다양한 값과 빈도를 수집하는 패턴  
 - 중첩된 루프 & O(N^2) 피하기 위해 사용  
 - 객체를 사용하여 프로파일 구성시, 배열이나 문자열의 내용을 분석하는 방법으로 주로 배열이나, 문자열과 같은 선형 구조를 구성해 다른 객체의 형태와 신속하게 비교 가능  
@@ -57,4 +57,5 @@ function same(arr1, arr2){
   
 same([1,2,3,2,5], [9,1,4,4,11])
 ```  
-  
+
+### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) index로 돌아가기

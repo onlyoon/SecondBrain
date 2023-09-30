@@ -1,6 +1,6 @@
 #aor
 ### Slot
->[!info]
+>[!note]
 >Slot
 >
 >>컴포넌트의 HTML 코드에서 부모 컴포넌트(외부 컴포넌트)로 커스텀 Mark-up 삽입 가능
@@ -27,4 +27,4 @@
 </div>
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

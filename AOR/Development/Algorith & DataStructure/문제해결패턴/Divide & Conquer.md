@@ -40,3 +40,4 @@ return -1;
 }  
 ```
 - 시간 복잡도: Log(N)
+### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) index로 돌아가기

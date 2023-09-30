@@ -1,6 +1,6 @@
 #aor
 ### Custom Event
->[!info]
+>[!note]
 >Custom Event
 >
 >>브라우저에서는 Custom된 Event를 생성시킬 수 있다.
@@ -41,4 +41,4 @@ function addToCart() {
 />
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

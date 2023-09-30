@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
-                "mode": "source",
+                "file": "AOR/Dev-Index/Svelte.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "AOR/Dev-Index/Svelte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "AOR/Dev-Index/Svelte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md"
+                "file": "AOR/Dev-Index/Svelte.md"
               }
             }
           },
@@ -159,39 +159,39 @@
   },
   "active": "7747e8b23e4e3662",
   "lastOpenFiles": [
-    "css-web browser rendering engine.md",
+    "AOR/Development/Svelte/Binding & Form/svelte-참조 후 바인딩.md",
+    "AOR/Dev-Index/Svelte.md",
+    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-HTML content 출력.md",
     "AOR/Dev-Index/CSS.md",
-    "css-CSSOM.md",
-    "AOR/Development/CSS/css-webkit.md",
-    "AOR/Development/CSS/css-rgba() & rgb().md",
-    "AOR/Development/CSS/css-not.md",
-    "AOR/Development/CSS/css-!important.md",
-    "AOR/Development/CSS/css-underline기본값.md",
-    "AOR/Development/CSS/css-Pseudo.md",
-    "AOR/Development/CSS/css-BEM Method.md",
-    "AOR/Development/CSS/css-CTA button.md",
-    "AOR/Development/CSS/css-calc().md",
-    "AOR/Development/CSS/css-display.md",
-    "AOR/Development/CSS/css-visibility-hidden & display-none.md",
-    "AOR/Development/CSS/css-Shorthand Properties.md",
-    "AOR/Development/CSS/css-Margin Collapsing.md",
-    "AOR/Development/CSS/css-Box model.md",
-    "AOR/Development/CSS/css-Specificity.md",
-    "AOR/Development/CSS/css-Selector.md",
-    "AOR/Development/CSS/css-Combinator.md",
-    "AOR/Development/CSS/css-Inherit.md",
-    "AOR/Development/CSS/css-CSS.md",
     "README.md",
-    "Home.md",
+    "AOR/Dev-Index/React.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Dev-Index/Blender.md",
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
+    "AOR/Development/Algorith & DataStructure/문제해결패턴/Divide & Conquer.md",
+    "AOR/Development/Algorith & DataStructure/문제해결패턴/Sliding Window.md",
+    "AOR/Development/Algorith & DataStructure/문제해결패턴/Multiple Pointers.md",
+    "AOR/Development/Algorith & DataStructure/문제해결패턴/Frequency Counter.md",
+    "AOR/Development/Algorith & DataStructure/문제해결접근법/문제 복습 및 재구성.md",
+    "AOR/Development/Algorith & DataStructure/문제해결접근법/문제 해결 및 단순화.md",
+    "AOR/Development/Algorith & DataStructure/문제해결접근법/문제 세분화.md",
+    "AOR/Development/Algorith & DataStructure/문제해결접근법/구체적 예시 탐색.md",
+    "AOR/Development/Algorith & DataStructure/문제해결접근법/문제 파악 및 이해.md",
+    "AOR/Development/Algorith & DataStructure/배열&객체성능평가/배열 성능 평가.md",
+    "AOR/Development/Algorith & DataStructure/배열&객체성능평가/객체 성능 평가.md",
+    "AOR/Development/Algorith & DataStructure/Big-O 표기법.md",
+    "AOR/Development/Algorith & DataStructure/Algorithm Definition.md",
+    "AOR/Development/Blender/Blender-Viewport Shading.md",
+    "AOR/Development/Blender/Blender-Object.md",
+    "AOR/Development/Blender/Blender-View.md",
+    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-두 컴포넌트간 통신.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181931.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181850.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png",
     "Pasted image 20230930181734.png",
-    "css-web rendering engine.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930175533.png",
-    "Modal.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930174238.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930144507.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930144433.png",

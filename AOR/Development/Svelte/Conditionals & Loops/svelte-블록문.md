@@ -1,6 +1,6 @@
 #aor
 ### Block Statement
->[!info]
+>[!note]
 >#### 블록문
 >
 >>Mark-up 코드에 영향을 주는 명령문
@@ -115,4 +115,4 @@ createdContacts = [...createdContact,
 {/each}
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

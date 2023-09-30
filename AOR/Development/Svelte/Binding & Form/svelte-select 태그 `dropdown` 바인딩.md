@@ -16,4 +16,4 @@
 </select>
 ```
 ---
-### [[Svelte]] Index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

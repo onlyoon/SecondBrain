@@ -53,3 +53,4 @@ function maxSubarraySum(arr, num){
 maxSubarraySum([2,6,9,2,1,8,5,6,3],3)  
 ```  
 - 시간 복잡도: O(N)
+### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) index로 돌아가기

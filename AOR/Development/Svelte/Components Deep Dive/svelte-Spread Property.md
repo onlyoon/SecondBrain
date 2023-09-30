@@ -1,6 +1,6 @@
 #aor
 ### Spread Property
->[!info]
+>[!note]
 >Spread Property
 >
 >>Spread 연산자([[js-Spread 구문]])를 가지고 컴포넌트의 Property에 넣어준다.
@@ -35,4 +35,4 @@
 {/each}
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

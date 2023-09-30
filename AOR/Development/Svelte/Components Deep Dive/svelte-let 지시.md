@@ -1,6 +1,6 @@
 #aor
 ### `let:`
->[!info]
+>[!note]
 >let 구문
 >
 >> 슬롯을 가진 컴포넌트에서 슬롯을 사용하는 컴포넌트로 데이터를 다시 전달하기 위해 사용하는 구문
@@ -85,4 +85,4 @@
 </div>
 ```
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기

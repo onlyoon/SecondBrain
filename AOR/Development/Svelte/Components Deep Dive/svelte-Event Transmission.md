@@ -1,6 +1,6 @@
 #aor
 ### Event Transmission
->[!info]
+>[!note]
 >#### 이벤트 전달
 >
 >> Svelte는 부모 컴포넌트가 prop으로 이벤트를 하위 컴포넌트에게 전달이 가능하다.
@@ -34,4 +34,4 @@
 >[!warning]
 >>하위 컴포넌트의 요소에 해당 이벤트가 들어있지 않았을 경우, 이벤트 전달이 되지 않는다.
 
-### [[Svelte]] index로 돌아가기
+### [Svelte](../../../Dev-Index/Svelte.md) index로 돌아가기
