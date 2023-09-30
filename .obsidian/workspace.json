@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "7747e8b23e4e3662",
   "lastOpenFiles": [
-    "AOR/Development/Svelte/Binding & Form/svelte-참조 후 바인딩.md",
-    "AOR/Dev-Index/Svelte.md",
-    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-HTML content 출력.md",
-    "AOR/Dev-Index/CSS.md",
+    "AOR/Dev-Index/Blender.md",
     "README.md",
     "AOR/Dev-Index/React.md",
-    "AOR/Dev-Index/JavaScript.md",
-    "AOR/Dev-Index/Blender.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
+    "AOR/Dev-Index/Svelte.md",
+    "AOR/Development/Svelte/Binding & Form/svelte-참조 후 바인딩.md",
+    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-HTML content 출력.md",
+    "AOR/Dev-Index/CSS.md",
+    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/Algorith & DataStructure/문제해결패턴/Divide & Conquer.md",
     "AOR/Development/Algorith & DataStructure/문제해결패턴/Sliding Window.md",
     "AOR/Development/Algorith & DataStructure/문제해결패턴/Multiple Pointers.md",
