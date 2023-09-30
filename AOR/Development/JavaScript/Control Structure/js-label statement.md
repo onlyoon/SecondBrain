@@ -1,7 +1,7 @@
 #aor 
 ### Label Statement
->[!info]
->레이블 구문
+>[!note]
+>#### 레이블 구문
 >
 >>식별자가 붙은 구문
 >
@@ -39,4 +39,4 @@ outerWhile: do {
 
 >[!warning]
 >>만일 외부반복문에 계속(`continue`)를 사용할 경우 상위 반복문이 없어진 채로 반복되어 무한 반복문이 생성될 수 있다.
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

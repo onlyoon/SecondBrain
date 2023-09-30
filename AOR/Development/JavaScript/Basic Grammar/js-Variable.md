@@ -6,4 +6,4 @@
 - `$`, `_`, `023`, 모두 가능 
 - 숫자로 시작❌
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

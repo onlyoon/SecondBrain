@@ -5,7 +5,7 @@ https://hihiha2.tistory.com/20
 https://kwangsunny.tistory.com/37
 https://h-owo-ld.tistory.com/m/149
 ### Environment Record
->[!info]
+>[!note]
 >#### 환경 레코드
 >
 >>코드의 중첩 구조를 기반으로 식별자들을 특정 변수 또는 함수에 연결(binding)하기 위해 사용
@@ -14,14 +14,14 @@ https://h-owo-ld.tistory.com/m/149
 
 ---
 ### Declarative Environment Record
->[!info]
+>[!note]
 >#### 선언적 환경 레코드
 >
 >>스코프(범위) 내에서 선언된 식별자들(`var`, `const`, `let`, `class`, `module`, `import`, `function`)의 바인딩을 관리하는 것이다.
 >
 >>선언적 환경 레코드는 함수 환경 레코드 그리고 모듈 환경 레코드로 구성된다.
 #### Function Environment Record
->[!info]
+>[!note]
 >#### 함수 환경 레코드
 >
 >>함수의 최상단 스코프(범위)를 나타내는데 사용되는 선언적 환경 레코드 중 하나이다.
@@ -29,7 +29,7 @@ https://h-owo-ld.tistory.com/m/149
 >>화살표 함수가 아니라면 `this`바인딩을 제공한다.
 >>`super`을 참조하는 경우, 메서드를 실행하게끔 도와준다.
 #### Module Environment Record
->[!info]
+>[!note]
 >#### 모듈 환경 레코드
 >
 >>Module의 외부 스코프를 나타낼 때 사용하는 선언적 환경 레코드 중 하나이다.
@@ -39,14 +39,14 @@ https://h-owo-ld.tistory.com/m/149
 - immutable import binding은 참조하는 외부 레코드의 바인딩에 대해서 간접 접근으로 변경하지 못하게 한다.
 ---
 ### Object Environment Record
->[!info]
+>[!note]
 >#### 객체 환경 레코드
 >
 >>`Binding Object` 객체와 연결되는 환경 레코드
 
 ---
 ### Global Environment Record
->[!info]
+>[!note]
 >#### 전역 환경 레코드
 >
 >>최상단의 스코프를 나타내는데 사용하는 환경 레코드
@@ -56,4 +56,4 @@ https://h-owo-ld.tistory.com/m/149
 >>전역 환경 레코드는 전역 환경의 객체 환경 레코드와 전역 환경의 선언 환경 레코드로 구성된다.
 
 ---
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -1,6 +1,6 @@
 #aor 
 ### Closure
->[!info]
+>[!note]
 >#### 클로저
 >
 >>폐쇄
@@ -23,4 +23,4 @@
 >>전역변수를 줄이는데 사용된다.
 >
 >>동일 형태의 코드 재사용률을 높이는 것이 가능하다.
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

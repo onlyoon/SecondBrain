@@ -9,4 +9,4 @@
 	- `3 / '3'` => `1`
 	- `3 + '3'` 만 `'33'` 을 산출합니다. 여기서 JavaScript가 `+` 연산자가 텍스트를 결합할 수 있다는 특성([[js-StringConcatenation]])을 사용하여, 숫자 대신 문자열을 생성합니다.
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

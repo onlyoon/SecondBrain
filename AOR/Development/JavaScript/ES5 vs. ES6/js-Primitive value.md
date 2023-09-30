@@ -1,6 +1,6 @@
 #aor 
 ### Primitive value
->[!info]
+>[!note]
 >#### 원시값
 >
 >>String, Numbers, Booleans, Null, undefined, Symbol
@@ -11,4 +11,4 @@
 >
 >>자바스크립트는 동적으로 특정 원시 값을 객체로 일시적 변환하는 것이 가능
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -1,6 +1,6 @@
 #aor 
 ### Strict mode
->[!info]
+>[!note]
 >#### `"use strict;"`
 >
 >>엄격 모드
@@ -10,6 +10,4 @@
 - 함정이 될만한 것들을 더 빨리 알려줘 디버깅이 쉬워진다.
 - JavaScript 엔진의 최적화 처리를 어렵게 만드는 오류들을 수정하는 일을 한다.
 - 미래의 ECMAScript로 정의될 예정인 구문들을 금지해 발생 가능한 에러를 예방한다.
-
-
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

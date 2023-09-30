@@ -1,7 +1,7 @@
 #aor 
 ### 반복문 제어구조
->[!info]
->반복문 제어구조
+>[!note]
+>#### 반복문 제어구조
 >
 >>반복문 제어구조엔 총 4가지 방식이 있다.
 >>1. for Loop
@@ -45,4 +45,4 @@ while (isLoggedIn === true) {
 }
 ```
 ---
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

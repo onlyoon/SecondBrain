@@ -15,4 +15,4 @@
 >? 만약 변수가 전역적 정의되고 함수 내부에서 지역적으로도 생성할 경우 어떻게 될까?
 >>오류가 나지 않으며 이를 쉐도잉([[js-Shadowing]])이라고 한다
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

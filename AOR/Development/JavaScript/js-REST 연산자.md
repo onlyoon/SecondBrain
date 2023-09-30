@@ -1,6 +1,6 @@
 #aor
 ### REST 연산자
->[!info]
+>[!note]
 >REST 연산자
 >
 >>여러 개의 인수가 무수하게 많을 때 사용하는 연산자
@@ -41,4 +41,4 @@ sumUp(1, 5, 10, -3, 6, 10);
 sumUp(1, 5, 10, -3, 6, 10, 25, 88);
 ```
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

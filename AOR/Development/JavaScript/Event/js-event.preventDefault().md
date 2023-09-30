@@ -1,6 +1,6 @@
 #aor
 ### Event.preventDefault()
->[!info]
+>[!note]
 >`event.preventDefault()`
 >
 >>브라우저의 기본 동작을 실행하지 않도록 하는 메소드
@@ -34,4 +34,4 @@
 </html>
 ```
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

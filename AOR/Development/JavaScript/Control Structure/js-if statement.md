@@ -7,4 +7,4 @@ if (isNaN(chosenMaxLife)) { // `isNaN` 입력한 값(chosenMaxLife)이 숫자가
 }
 ```
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

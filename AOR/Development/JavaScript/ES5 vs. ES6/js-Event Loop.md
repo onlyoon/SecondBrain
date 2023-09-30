@@ -1,6 +1,6 @@
 #aor 
 ### Event Loop
->[!info]
+>[!note]
 >#### 이벤트 루프
 >
 >>이벤트 리스너를 지원하는 공간
@@ -10,4 +10,4 @@
 - 자바스크립트 엔진이 관리하지 않고 브라우저가 직접 관리
 
 - 추가적 내용 필요
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

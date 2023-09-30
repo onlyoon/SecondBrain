@@ -33,4 +33,4 @@ console.log(calculateVatAmount(100));
 console.log(calculateIncomeTaxAmount(100));
 ```
 ---
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -1,6 +1,6 @@
 #aor 
 ### `new` 키워드
->[!info]
+>[!note]
 >#### `new` 키워드
 >
 >>객체를 생성하는 방법 중에서, 생성자 함수를 사용해 객체를 만드는 방법을 활용하는 키워드이다.
@@ -17,4 +17,4 @@ class Product {
 const chickenProduct = new Product("Chicken");
 ```
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

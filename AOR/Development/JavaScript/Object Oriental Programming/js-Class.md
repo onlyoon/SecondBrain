@@ -1,6 +1,6 @@
 #aor 
 ### Class
->[!info]
+>[!note]
 >#### 클래스
 >
 >>객체를 위한 템플릿
@@ -30,4 +30,4 @@ chickenProduct.printInfo();
 >
 >>`this` 키워드는 항상 메서드를 참조한다.
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

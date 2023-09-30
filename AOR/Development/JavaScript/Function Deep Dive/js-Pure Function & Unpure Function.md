@@ -1,6 +1,6 @@
 #aor 
 ### Pure Function
->[!info]
+>[!note]
 >#### 순수 함수 
 >
 >>입력값이(인자) 주어지면 늘 같은 출력값을 내놓는 함수
@@ -16,7 +16,7 @@ function add(num1, num2) {
 console.log(add(1, 2)); // 3
 ```
 
->[!info]
+>[!note]
 >#### 비순수 함수 
 >
 >>입력값이(인자) 주어지면 다른 출력값을 내놓는 함수
@@ -55,4 +55,4 @@ printHobbies(hobbies);
 
 ---
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

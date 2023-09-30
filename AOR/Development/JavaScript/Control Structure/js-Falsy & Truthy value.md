@@ -1,7 +1,7 @@
 #aor 
 ### Falsy & Truthy value
->[!info]
->Falsy & Truthy value
+>[!note]
+>#### Falsy & Truthy value
 >
 >>Boolean 문맥에서 사용되는 모든 true값: truthy, 모든 false값: falsy
 >
@@ -38,4 +38,4 @@ if (NaN)
 if ("")
 ```
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

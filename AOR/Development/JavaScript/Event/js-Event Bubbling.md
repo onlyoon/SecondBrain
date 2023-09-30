@@ -1,6 +1,6 @@
 #aor
 ### Event Bubbling
->[!info]
+>[!note]
 >Event Bubbling
 >
 >>이벤트가 연속하여 발생하는 버블 현상
@@ -43,4 +43,4 @@
 
 ![[Pasted image 20230914122630.png]]
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

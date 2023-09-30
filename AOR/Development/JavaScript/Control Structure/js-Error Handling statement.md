@@ -1,7 +1,7 @@
 #aor 
 ### Error Handling Control Structure
->[!info]
->에러 핸들링 제어구조
+>[!note]
+>#### 에러 핸들링 제어구조
 >
 >>오류가 발생되었다는 것을 알려주기 위해 사용한다.
 >
@@ -33,5 +33,4 @@ try {
 }
 ```
 ---
-
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -1,7 +1,7 @@
 #aor 
 ### # var
->[!info]
->### var
+>[!note]
+>#### var
 >
 >>`var`문은 변수를 선언하고, 선택적으로 초기화를 하는 것이 가능하다.
 
@@ -11,4 +11,4 @@
 - 의도를 명확히 하도록 강제하지 않는다.
 - 브라우저 지원 때문에 남아있다.
 - Hoisting시, 초깃값 설정이 가능하다. (에러안남)
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -14,5 +14,4 @@
 - 함수를 바로 실행하고 싶지 않을 때 (간접실행)
 	- `add` 
 	- 이름만 입력 `add`
-
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

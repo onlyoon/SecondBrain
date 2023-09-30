@@ -1,6 +1,6 @@
 #aor 
 ### Object Oriental Programming
->[!info]
+>[!note]
 >#### 객체지향 프로그래밍
 >
 >>프로그램을 객체의 단위로 나누어 이것들과 상호작용하여 함께 일하는 방식
@@ -32,4 +32,4 @@
 #### 절차지향 방식과 객체지향 방식의 차이
 ![[Pasted image 20230918013454.png]]
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

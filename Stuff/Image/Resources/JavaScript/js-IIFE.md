@@ -2,7 +2,7 @@
 @출처
 https://velog.io/@doondoony/javascript-iife
 ### Immediately Invoked Function Expression
->[!info]
+>[!note]
 >#### 즉시 실행되는 함수 표현식
 >
 >>즉시 실행되어 값으로 바로 평가되는 함수
@@ -23,4 +23,4 @@ life(); // "Immediately Invoked Function Expression!"
 	console.log("Immediately Invoked Function Expression!");
 })(); // "Immediately Invoked Function Expression!"
 ```
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../../AOR/Dev-Index/JavaScript.md) Index로 돌아가기
