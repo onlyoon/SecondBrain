@@ -28,7 +28,6 @@
 
 ![](Stuff/Image/Resources/CSS/Pasted%20image%2020230930181931.png)
 #### 렌더 트리 생성
-
 ![](Stuff/Image/Resources/CSS/Pasted%20image%2020230930181945.png)
 
 ---

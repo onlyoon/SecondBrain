@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Development/CSS/css-web browser rendering engine.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/CSS/css-web browser rendering engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/CSS/css-web browser rendering engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Development/CSS/css-web browser rendering engine.md"
               }
             }
           },
@@ -157,8 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a190077dc89d014",
+  "active": "3201fbc8beaad512",
   "lastOpenFiles": [
+    "AOR/Dev-Index/CSS.md",
+    "README.md",
     "AOR/Dev-Index/Blender.md",
     "AOR/Development/Blender/Blender-Viewport Shading.md",
     "AOR/Development/Blender/Blender-Object.md",
@@ -183,8 +185,6 @@
     "AOR/Development/JavaScript/효율적 개발 및 디버깅/js-단축키.md",
     "AOR/Development/JavaScript/Basic Grammar/js-Event Handler.md",
     "AOR/Development/JavaScript/Basic Grammar/js-Shadowing.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Function.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-TemplateLiteral.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181931.png",
