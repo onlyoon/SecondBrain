@@ -37,10 +37,10 @@
 
 ```
 
-![[Pasted image 20230914122414.png]]
+![](../../../../Stuff/Image/Resources/JavaScript/Pasted%20image%2020230914122414.png)
 
 - DIV3 버튼을 클릭하면 => DIV3, DIV2, DIV1 이벤트 전파
 
-![[Pasted image 20230914122630.png]]
+![](../../../../Stuff/Image/Resources/JavaScript/Pasted%20image%2020230914122630.png)
 
 ### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

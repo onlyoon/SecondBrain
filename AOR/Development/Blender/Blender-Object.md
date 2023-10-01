@@ -1,10 +1,10 @@
 #### Object
 - `Object mode`에서 오브젝트를 선택, 추가 및 다양한 기능을 사용할 수 있다.
 
-![[Pasted image 20230929004933.png]]
+![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929004933.png)
 
 - 오브젝트 조작 ToolBar
-![[Pasted image 20230929010846.png]]
+![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929010846.png)
 
 #### 3D Cursor
 - Object 생성시 3D Cursor를 중심으로 물체 생성

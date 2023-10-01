@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,34 +157,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3201fbc8beaad512",
+  "active": "6a190077dc89d014",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/ES5 vs. ES6/js-WHATWG.md",
-    "AOR/Dev-Index/JavaScript.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/js-Garbage Collection & Memory Leak.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-TemplateLiteral.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Constant.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/js-Primitive value.md",
-    "README.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Environment Record.md",
-    "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
-    "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
+    "AOR/Dev-Index/Blender.md",
+    "AOR/Development/Blender/Blender-Viewport Shading.md",
+    "AOR/Development/Blender/Blender-Object.md",
+    "AOR/Development/Blender/Blender-View.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
-    "AOR/Development/JavaScript/js-Spread 구문.md",
-    "AOR/Development/JavaScript/Control Structure/js-Error Handling statement.md",
-    "AOR/Development/JavaScript/js-REST 연산자.md",
+    "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
+    "AOR/Development/JavaScript/Event/js-Event Bubbling.md",
+    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-Event Loop.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-strict mode.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-let & const.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-var.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/js-ECMAScripts.md",
-    "AOR/Development/JavaScript/Control Structure/js-Control Structure.md",
-    "AOR/Development/JavaScript/Control Structure/js-Loop Statement.md",
+    "AOR/Development/JavaScript/Control Structure/js-Error Handling statement.md",
     "AOR/Development/JavaScript/Control Structure/js-label statement.md",
+    "AOR/Development/JavaScript/Control Structure/js-Loop Statement.md",
     "AOR/Development/JavaScript/Control Structure/js-if statement.md",
     "AOR/Development/JavaScript/Control Structure/js-Falsy & Truthy value.md",
+    "AOR/Development/JavaScript/Control Structure/js-Control Structure.md",
+    "AOR/Development/JavaScript/효율적 개발 및 디버깅/디버깅 브라우저 검사.md",
+    "AOR/Development/JavaScript/효율적 개발 및 디버깅/구글링.md",
     "AOR/Development/JavaScript/효율적 개발 및 디버깅/js-단축키.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Variable.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Event Handler.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Shadowing.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Function.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-TemplateLiteral.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181931.png",
