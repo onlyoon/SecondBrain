@@ -32,6 +32,7 @@
 
 ---
 - gecko 동작 과정
+
 ![](../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930175533.png)
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/CSS/css-web browser rendering engine.md",
+                "file": "AOR/Dev-Index/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/CSS/css-web browser rendering engine.md",
+                "file": "AOR/Dev-Index/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/CSS/css-web browser rendering engine.md",
+                "file": "AOR/Dev-Index/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/CSS/css-web browser rendering engine.md"
+                "file": "AOR/Dev-Index/CSS.md"
               }
             }
           },
@@ -159,7 +159,9 @@
   },
   "active": "3201fbc8beaad512",
   "lastOpenFiles": [
+    "AOR/Development/CSS/css-CTA button.md",
     "AOR/Dev-Index/CSS.md",
+    "AOR/Development/CSS/css-web browser rendering engine.md",
     "README.md",
     "AOR/Dev-Index/Blender.md",
     "AOR/Development/Blender/Blender-Viewport Shading.md",
@@ -183,8 +185,6 @@
     "AOR/Development/JavaScript/효율적 개발 및 디버깅/디버깅 브라우저 검사.md",
     "AOR/Development/JavaScript/효율적 개발 및 디버깅/구글링.md",
     "AOR/Development/JavaScript/효율적 개발 및 디버깅/js-단축키.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Event Handler.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Shadowing.md",
     "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930181931.png",
