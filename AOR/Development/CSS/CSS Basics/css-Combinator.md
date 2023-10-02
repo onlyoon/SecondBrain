@@ -39,4 +39,4 @@
 ---
 >[!warning]
 >>결합자를 안쓰는 것이 성능이 더 좋으니 중첩이 되지 않도록 사용하는 것이 중요하다.
-### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기
+### [CSS](../../../Dev-Index/CSS.md) Index로 돌아가기

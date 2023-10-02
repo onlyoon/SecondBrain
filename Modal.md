@@ -3,7 +3,7 @@
 @출처
 https://brunch.co.kr/@bommade/45
 ### Modal
->[!info]
+>[!note]
 >Modal
 >
 >> 화면을 다른 화면 위로 띄워 표현하는 방식으로, 사용자의 이목을 끌기 위해 사용하는 화면 전환 기법이다.
@@ -13,7 +13,7 @@ https://brunch.co.kr/@bommade/45
 >>하나는 모달용 `<div>` 다른 하나는 백드롭용 `<div>`
 >
 
->[!info]
+>[!note]
 >Modal `<div>`
 >
 >> 컨텐츠를 보여주는 `<div>`이다.
@@ -32,7 +32,7 @@ https://brunch.co.kr/@bommade/45
 }
 ```
 
->[!info]
+>[!note]
 >BackDrop `<div>`
 >
 >>배경 화면이 어두워지게 하는 `<div>`이며, 전체 웹사이트를 다 감싸야 한다.

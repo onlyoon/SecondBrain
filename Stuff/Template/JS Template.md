@@ -1,6 +1,6 @@
 #aor 
 ### Template
->[!info]
+>[!note]
 >#### Title
 >
 >>Description

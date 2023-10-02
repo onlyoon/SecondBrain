@@ -23,4 +23,8 @@
 >>전역변수를 줄이는데 사용된다.
 >
 >>동일 형태의 코드 재사용률을 높이는 것이 가능하다.
+
+---
+#### 추가 정보
+- [클로저에 대한 추가 정보](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 ### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

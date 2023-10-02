@@ -8,7 +8,7 @@
 >>애플이 오픈소스로 개발하고 있는 웹 브라우저 렌더링 엔진
 
 - webkit 동작 과정
-![](../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930174238.png)
+![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930174238.png)
 
 ### Web Browser Engine
 >[!note]
@@ -34,4 +34,4 @@
 
 
 
-### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기
+### [CSS](../../../Dev-Index/CSS.md) Index로 돌아가기

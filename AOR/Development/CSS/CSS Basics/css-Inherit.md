@@ -11,4 +11,4 @@
 	- 예시. `font-family: inherit`
 	- 상속의 명시도를 증가시키는 키워드이다.
 
-### [CSS](../../Dev-Index/CSS.md) Index로 돌아가기
+### [CSS](../../../Dev-Index/CSS.md) Index로 돌아가기

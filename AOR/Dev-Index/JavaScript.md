@@ -44,20 +44,20 @@
 - [js-Anonymous function](js-Anonymous%20function) need to be fixed
 - [js-Arrow Function Expression](js-Arrow%20Function%20Expression) need to be fixed
 - [js-Parameter with default value](js-Parameter%20with%20default%20value) need to be fixed
-- [js-REST 연산자](../Development/JavaScript/js-REST%20연산자.md)
+- [js-REST 연산자](../Development/JavaScript/Advanced%20Function/js-REST%20연산자.md)
 - [js-고차함수](js-고차함수) need to be fixed
 - [js-Callback Function](js-Callback%20Function) need to be fixed
 - [js-Bind Method](js-Bind%20Method) need to be fixed
 ---
 ### DOM
-- [[js-DOM]]
+- [js-DOM](../Development/JavaScript/DOM/js-DOM.md)
 - [[js-Element Node & Text Node]]
 - [[js-Node]]
 - [[js-Element]]
-- [[js-Query Method]]
-- [[js-console.dir()]]
+- [js-Query Method](../Development/JavaScript/DOM/js-Query%20Method.md)
+- [js-console.dir()](../Development/JavaScript/DOM/js-console.dir().md)
 - [[js-Attribute vs. Property]]
-- [[js-DOM Traversing]]
+- [js-DOM Traversing](../Development/JavaScript/DOM/js-DOM%20Traversing.md)
 ---
 ### Advanced Array & Repeat
 - [[js-Iterable]]
@@ -68,7 +68,7 @@
 - [[js-유사 배열 객체]]
 - [[js-배열 생성 방법]]
 - [[js.-배열 메서드]]
-- [js-Spread 구문](../Development/JavaScript/js-Spread%20구문.md)
+- [js-Spread 구문](../Development/JavaScript/Advanced%20Array%20&%20Repeat/js-Spread%20구문.md)
 - [[js-배열 구조 분해]]
 ---
 ### Advanced Object
@@ -110,8 +110,14 @@
 - [js-Lexical Environment](../Development/JavaScript/Function%20Deep%20Dive/js-Lexical%20Environment.md)
 - [js-Environment Record](../Development/JavaScript/Function%20Deep%20Dive/js-Environment%20Record.md)
 - [js-IIFE](../../Stuff/Image/Resources/JavaScript/js-IIFE.md)
+- [js-Recursion](../Development/JavaScript/Function%20Deep%20Dive/js-Recursion.md)
 ---
 ### Number & String
+- [js-number](../Development/JavaScript/Number%20&%20String/js-number.md)
+- [js-floadting point](../Development/JavaScript/Number%20&%20String/js-floadting%20point.md)
+- [js-BigInt](../Development/JavaScript/Number%20&%20String/js-BigInt.md)
+- [js-Tagged Template](../../js-Tagged%20Template.md)
+- [js-RegEx](../../js-RegEx.md)
 ---
 ### 비동기 (Promise & Callback)
 ---
