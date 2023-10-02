@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9aa569eedfa8aa",
+        "id": "1e53fc43738b29ae",
         "type": "tabs",
         "children": [
           {
-            "id": "0b0cccd4f193460a",
+            "id": "fc384fe79dc2e07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -63,6 +63,14 @@
             "useHierarchy": true
           }
         }
+      },
+      {
+        "id": "aa7f37d90c2814c3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -77,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Home.md"
           }
         }
       }
@@ -124,7 +132,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0b0cccd4f193460a",
+  "active": "fc384fe79dc2e07f",
   "lastOpenFiles": [
     "AOR/Dev-Index/CSS.md",
     "AOR/Development/CSS/css-BEM Method.md",

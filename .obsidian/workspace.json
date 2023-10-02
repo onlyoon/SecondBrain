@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "143b8df6681ba33c",
+        "id": "6a86339799050581",
         "type": "tabs",
         "children": [
           {
-            "id": "3201fbc8beaad512",
+            "id": "f26f53997b1a81a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3201fbc8beaad512",
+  "active": "f26f53997b1a81a3",
   "lastOpenFiles": [
     "AOR/Development/CSS/css-CTA button.md",
     "AOR/Dev-Index/CSS.md",
