@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "799c174a8f4881c9",
+        "id": "0b0c3774f301bc35",
         "type": "tabs",
         "children": [
           {
-            "id": "7439a49729e079b0",
+            "id": "a961f84ac3ae3e55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Dev-Index/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Dev-Index/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "AOR/Dev-Index/JavaScript.md"
               }
             }
           },
@@ -157,53 +157,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7439a49729e079b0",
+  "active": "a961f84ac3ae3e55",
   "lastOpenFiles": [
-    "Pasted image 20231004140738.png",
-    "Raft.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Semicolon.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
+    "AOR/Dev-Index/Svelte.md",
+    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
+    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+    "AOR/Development/JavaScript/Promise & Callback/Promise.md",
+    "AOR/Development/Computer Structure/Interrupt.md",
+    "AOR/Development/Computer Structure/Status Register.md",
+    "AOR/Development/Computer Structure",
+    "Home.md",
+    "AOR/Dev-Index/Computer Structure.md",
+    "AOR/Development/Blockchain/PBFT.md",
+    "AOR/Development/Blockchain/Paxos.md",
+    "AOR/Development/Blockchain/Raft.md",
+    "AOR/Dev-Index/Blockchain.md",
+    "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
     "Pasted image 20231004140708.png",
     "Pasted image 20231004140659.png",
-    "PBFT.md",
-    "AOR/Dev-Index/Blockchain.md",
     "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
     "Stuff/Image/AOR/Blockchain",
     "AOR/Development/JavaScript/About JavaScript/JavaScript Definition.md",
-    "AOR/Dev-Index/JavaScript.md",
     "Stuff/Image/AOR/JavaScript/IIFE.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140037.png",
-    "Paxos.md",
     "AOR/Dev-Index/Blockchain",
     "AOR/Development/Blockchain",
     "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
-    "Home.md",
     "README.md",
     "CRLF IsSUE/CRLF Issue.md",
     "CRLF IsSUE",
     "AOR/Development/JavaScript/Promise & Callback",
-    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
     "AOR/Development/JavaScript/Number & String/js-최댓값, 최솟값 사이에서 무작위 숫자 생성.md",
     "AOR/Development/JavaScript/Number & String/js-RegEx.md",
-    "AOR/Development/JavaScript/Promise & Callback/js-Async & Sync.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/var.md",
-    "AOR/Dev-Index/CSS.md",
-    "AOR/Development/JavaScript/Control Structure/js-Error Handling statement.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
-    "AOR/Development/JavaScript/Number & String/BigInt.md",
     "AOR/Development/CSS/CSS Basics",
     "AOR/Development/CSS/Deep-Dive CSS",
     "AOR/Development/CSS/Selectors & CSS Features",
     "AOR/Development/JavaScript/Number & String",
-    "AOR/Development/JavaScript/DOM",
     "Stuff/Image/AOR/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181931.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181850.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181701.png",
-    "Pasted image 20230930181734.png",
-    "Stuff/Image/AOR/CSS/Pasted image 20230930175533.png"
+    "Pasted image 20230930181734.png"
   ]
 }

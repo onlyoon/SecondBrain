@@ -9,8 +9,8 @@
 >>`on:Click|once`
 >>`on:Click|passive`
 >>`on:Click|capture`
->>`on:Click|stopPropagation` ([[../../JavaScript/Event/event.stopPropagation()]])
->>`on:Click|preventDefault` ([[../../JavaScript/Event/event.preventDefault()]])
+>>`on:Click|stopPropagation` ([event.stopPropagation()](../../JavaScript/Event/event.stopPropagation().md))
+>>`on:Click|preventDefault` ([event.preventDefault()](../../JavaScript/Event/event.preventDefault().md))
 
 사용법 :
 ```html

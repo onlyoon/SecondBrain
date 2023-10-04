@@ -23,6 +23,21 @@ const showResult = (result) => {
 sumUp(showResult, 1, 5, -3, 6, 10);
 ```
 
+- 콜백 지옥
+	- getCurrentPosition의 콜백 함수 안에 setTimeout의 콜백 함수 안에 doMoreAsyncStuff의 콜백 함수가 있다.
+	- 읽기가 어려우며, 이해하기도 어렵다.
+	- 콜백 지옥을 위한 대안으로 [Promise](../Promise%20&%20Callback/Promise.md) 객체를  사용한다.
+```js
+getCurrentPosition(() => {
+	setTimeout(() => {
+		doMoreAsyncStuff(() => {
+			...
+		})
+	}, 1000);
+}, ...);
+```
+
+
 >[!warning]
 >>콜백함수를 중첩시킬 수록 코드가 더 읽기 힘들어지고 유지되기 어려워진다.
 >
