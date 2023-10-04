@@ -30,6 +30,6 @@
     - 프로그래밍의 유연성을 높여주며 파생 클래스에서 재정의한 함수의 호출을 보장(다형 개념 실현)
 
 #### 절차지향 방식과 객체지향 방식의 차이
-![](../../../../Stuff/Image/Resources/JavaScript/Pasted%20image%2020230918013454.png)
+![](../../../../Stuff/Image/AOR/JavaScript/Pasted%20image%2020230918013454.png)
 
 ### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

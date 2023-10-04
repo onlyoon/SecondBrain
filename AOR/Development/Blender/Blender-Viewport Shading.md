@@ -1,4 +1,4 @@
-![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929012346.png)
+![](../../../Stuff/Image/AOR/Blender/Pasted%20image%2020230929012346.png)
 #### Viewport Shading
 - Solid
 	- Object의 그림자를 볼 수 있다.
@@ -17,7 +17,7 @@
 	- Object를 투사할 수 있다.
 ---
 ### Viewport Visibility & Render Visibility
-![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929013318.png)
+![](../../../Stuff/Image/AOR/Blender/Pasted%20image%2020230929013318.png)
 
 ---
 ### Rendering Image
@@ -33,7 +33,7 @@
 		- 빛을 계산하는 렌더링 시스템
 		- 높은 정확도
 ---
-![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929013602.png)
+![](../../../Stuff/Image/AOR/Blender/Pasted%20image%2020230929013602.png)
 
 ---
 ### [Blender](../../Dev-Index/Blender.md) index로 돌아가기

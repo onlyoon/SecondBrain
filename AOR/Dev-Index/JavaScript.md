@@ -1,5 +1,5 @@
 #index
-### [[JavaScript Definition]]
+### [JavaScript Definition](../Development/JavaScript/About%20JavaScript/JavaScript%20Definition.md)
 ---
 ### Basic
 - [ScriptTag](../Development/JavaScript/Basic%20Grammar/ScriptTag.md)
@@ -109,7 +109,7 @@
 - [Closure](../Development/JavaScript/Function%20Deep%20Dive/Closure.md)
 - [Lexical Environment](../Development/JavaScript/Function%20Deep%20Dive/Lexical%20Environment.md)
 - [Environment Record](../Development/JavaScript/Function%20Deep%20Dive/Environment%20Record.md)
-- [IIFE](../../Stuff/Image/Resources/JavaScript/IIFE.md)
+- [IIFE](../../Stuff/Image/AOR/JavaScript/IIFE.md)
 - [js-Recursion](../Development/JavaScript/Function%20Deep%20Dive/js-Recursion.md)
 ---
 ### Number & String

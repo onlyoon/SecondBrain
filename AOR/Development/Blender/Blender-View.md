@@ -3,7 +3,7 @@
 Dropdown 메뉴의 
 3D Viewport를 통해 3D화면을 볼 수 있다.
 
-![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929002418.png)
+![](../../../Stuff/Image/AOR/Blender/Pasted%20image%2020230929002418.png)
 
 ---
 #### Object View 단축키
@@ -18,7 +18,7 @@ Dropdown 메뉴의
 	- 돋보기 버튼과 동일
 
 - 데카르트 좌표계를 통해 오브젝트를 다각으로 보는 것이 더 쉽다.
-![](../../../Stuff/Image/Resources/Blender/Pasted%20image%2020230929003634.png)
+![](../../../Stuff/Image/AOR/Blender/Pasted%20image%2020230929003634.png)
 ---
 #### Canvas View 단축키
 - 프론트 뷰

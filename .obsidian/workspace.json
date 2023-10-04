@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c88dfa165eee35ee",
+        "id": "799c174a8f4881c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1ded3ce7a11afa6d",
+            "id": "7439a49729e079b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRLF IsSUE/CRLF Issue.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRLF IsSUE/CRLF Issue.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRLF IsSUE/CRLF Issue.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRLF IsSUE/CRLF Issue.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,9 +157,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ded3ce7a11afa6d",
+  "active": "7439a49729e079b0",
   "lastOpenFiles": [
+    "Pasted image 20231004140738.png",
+    "Raft.md",
+    "Pasted image 20231004140708.png",
+    "Pasted image 20231004140659.png",
+    "PBFT.md",
+    "AOR/Dev-Index/Blockchain.md",
+    "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
+    "Stuff/Image/AOR/Blockchain",
+    "AOR/Development/JavaScript/About JavaScript/JavaScript Definition.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "Stuff/Image/AOR/JavaScript/IIFE.md",
+    "Stuff/Image/AOR/Blockchain/Pasted image 20231004140037.png",
+    "Paxos.md",
+    "AOR/Dev-Index/Blockchain",
+    "AOR/Development/Blockchain",
+    "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
     "Home.md",
+    "README.md",
     "CRLF IsSUE/CRLF Issue.md",
     "CRLF IsSUE",
     "AOR/Development/JavaScript/Promise & Callback",
@@ -167,7 +184,6 @@
     "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
     "AOR/Development/JavaScript/Number & String/js-최댓값, 최솟값 사이에서 무작위 숫자 생성.md",
     "AOR/Development/JavaScript/Number & String/js-RegEx.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async & Sync.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
@@ -177,33 +193,17 @@
     "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
     "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
     "AOR/Development/JavaScript/Number & String/BigInt.md",
-    "Stuff/Image/Resources/JavaScript/IIFE.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
-    "AOR/Development/JavaScript/Event/event.stopPropagation().md",
-    "AOR/Development/JavaScript/Event/event.preventDefault().md",
-    "AOR/Development/JavaScript/Event/Event Bubbling.md",
-    "AOR/Development/JavaScript/DOM/DOM.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/WHATWG.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/let & const.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/ECMAScripts.md",
-    "AOR/Development/JavaScript/Basic Grammar/Shadowing.md",
     "AOR/Development/CSS/CSS Basics",
     "AOR/Development/CSS/Deep-Dive CSS",
     "AOR/Development/CSS/Selectors & CSS Features",
     "AOR/Development/JavaScript/Number & String",
     "AOR/Development/JavaScript/DOM",
-    "AOR/Development/JavaScript/Advanced Function",
-    "AOR/Development/JavaScript/Advanced Array & Repeat",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930181945.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930181931.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930181850.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930181701.png",
+    "Stuff/Image/AOR/CSS/Pasted image 20230930182111.png",
+    "Stuff/Image/AOR/CSS/Pasted image 20230930181945.png",
+    "Stuff/Image/AOR/CSS/Pasted image 20230930181931.png",
+    "Stuff/Image/AOR/CSS/Pasted image 20230930181850.png",
+    "Stuff/Image/AOR/CSS/Pasted image 20230930181701.png",
     "Pasted image 20230930181734.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930175533.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930174238.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930144507.png",
-    "Stuff/Image/Resources/CSS/Pasted image 20230930144433.png",
-    "Stuff/Image/Resources/CSS"
+    "Stuff/Image/AOR/CSS/Pasted image 20230930175533.png"
   ]
 }

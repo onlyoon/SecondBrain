@@ -7,8 +7,8 @@
 
 - 예시
 
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930144433.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930144433.png)
 
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930144507.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930144507.png)
 
 ### [CSS](../../../Dev-Index/CSS.md) Index로 돌아가기

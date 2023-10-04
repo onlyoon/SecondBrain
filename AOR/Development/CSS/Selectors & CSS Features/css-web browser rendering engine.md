@@ -15,25 +15,25 @@
 	6. 완료된 화면 표시
 ---
 ### webkit 동작 과정
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930174238.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930174238.png)
 #### HTML 파일 파싱 및 DOM 트리 생성
 - HTML 문서 파싱 후 Parsing Tree 생성
 - Parsing Tree 기반 DOM Tree 생성
 
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930182111.png)
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930181850.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930182111.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930181850.png)
 #### CSS 파일 파싱 및 CSSOM(CSS Object Model) 생성
 - CSS 파일 파싱 후 Parsing Tree 생성
 - Parsing Tree 기반 CSSOM ([[css-CSSOM]]) 생성
 
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930181931.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930181931.png)
 #### 렌더 트리 생성
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930181945.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930181945.png)
 
 ---
 - gecko 동작 과정
 
-![](../../../../Stuff/Image/Resources/CSS/Pasted%20image%2020230930175533.png)
+![](../../../../Stuff/Image/AOR/CSS/Pasted%20image%2020230930175533.png)
 
 ---
 - 종류
