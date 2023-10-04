@@ -31,7 +31,7 @@ $$f = 비잔틴 노드 수$$
 - `reply` 단계
 	- 클라이언트가 모든 노드들로부터 `committed certificate`를 받으면, 결과를 확인하고 종료한다. 
 #### View Change Protocol
-![](Pasted%20image%2020231004140738.png)
+![](Stuff/Image/AOR/Blockchain/Pasted%20image%2020231004140738.png)
 - 클라이언트로부터 처음 요청 받는 노드(`Primary Node`)의 실패를 방지하기 위한 백업 `Primary Node`를 선출하는 프로토콜
 - `Primary Node`가 실패인 경우 `View-Change`메세지를 전송한다.
 	- `Primary Node`가 클라이언트로부터 요청을 받고 시간이 지나도, 메세지를 보내지 않을 경우
