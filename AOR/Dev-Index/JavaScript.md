@@ -2,14 +2,14 @@
 ### [[JavaScript Definition]]
 ---
 ### Basic
-- [js-ScriptTag](../Development/JavaScript/Basic%20Grammar/js-ScriptTag.md)
+- [ScriptTag](../Development/JavaScript/Basic%20Grammar/ScriptTag.md)
 - [js-Variable](../Development/JavaScript/Basic%20Grammar/js-Variable.md)
 - [js-Constant](../Development/JavaScript/Basic%20Grammar/js-Constant.md)
 - [js-Semicolon](../Development/JavaScript/Basic%20Grammar/js-Semicolon.md)
 - [js-StringConcatenation](../Development/JavaScript/Basic%20Grammar/js-StringConcatenation.md)
 - [js-TemplateLiteral](../Development/JavaScript/Basic%20Grammar/js-TemplateLiteral.md)
 - [js-Function](../Development/JavaScript/Basic%20Grammar/js-Function.md)
-- [js-Shadowing](../Development/JavaScript/Basic%20Grammar/js-Shadowing.md)
+- [Shadowing](../Development/JavaScript/Basic%20Grammar/Shadowing.md)
 - [js-Event Handler](../Development/JavaScript/Basic%20Grammar/js-Event%20Handler.md)
 ---
 ### 효율적 개발 및 디버깅
@@ -26,13 +26,13 @@
 - [js-Error Handling statement](../Development/JavaScript/Control%20Structure/js-Error%20Handling%20statement.md)
 ---
 ### ES5 vs. ES6
-- [js-ECMAScripts](../Development/JavaScript/ES5%20vs.%20ES6/js-ECMAScripts.md)
-- [js-var](../Development/JavaScript/ES5%20vs.%20ES6/js-var.md)
-- [js-let & const](../Development/JavaScript/ES5%20vs.%20ES6/js-let%20&%20const.md)
+- [ECMAScripts](../Development/JavaScript/ES5%20vs.%20ES6/ECMAScripts.md)
+- [var](../Development/JavaScript/ES5%20vs.%20ES6/var.md)
+- [let & const](../Development/JavaScript/ES5%20vs.%20ES6/let%20&%20const.md)
 - [js-strict mode](../Development/JavaScript/ES5%20vs.%20ES6/js-strict%20mode.md)
 - [js-Data Management](js-Data%20Management) need to be fixed
-- [js-Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/js-Event%20Loop.md)
-- [js-WHATWG](../Development/JavaScript/ES5%20vs.%20ES6/js-WHATWG.md)
+- [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
+- [WHATWG](../Development/JavaScript/ES5%20vs.%20ES6/WHATWG.md)
 - [js-Primitive value](../Development/JavaScript/ES5%20vs.%20ES6/js-Primitive%20value.md)
 - [js-Reference value](js-Reference%20value) need to be fixed
 - [js-Garbage Collection & Memory Leak](../Development/JavaScript/ES5%20vs.%20ES6/js-Garbage%20Collection%20&%20Memory%20Leak.md)
@@ -46,11 +46,11 @@
 - [js-Parameter with default value](js-Parameter%20with%20default%20value) need to be fixed
 - [js-REST 연산자](../Development/JavaScript/Advanced%20Function/js-REST%20연산자.md)
 - [js-고차함수](js-고차함수) need to be fixed
-- [js-Callback Function](js-Callback%20Function) need to be fixed
+- [Callback Function](../Development/JavaScript/Advanced%20Function/Callback%20Function.md)
 - [js-Bind Method](js-Bind%20Method) need to be fixed
 ---
 ### DOM
-- [js-DOM](../Development/JavaScript/DOM/js-DOM.md)
+- [DOM](../Development/JavaScript/DOM/DOM.md)
 - [[js-Element Node & Text Node]]
 - [[js-Node]]
 - [[js-Element]]
@@ -98,28 +98,30 @@
 ### DOM & Browser API
 ---
 ### Event
-- [js-event.preventDefault()](../Development/JavaScript/Event/js-event.preventDefault().md)
-- [js-Event Bubbling](../Development/JavaScript/Event/js-Event%20Bubbling.md)
-- [js-event.stopPropagation()](../Development/JavaScript/Event/js-event.stopPropagation().md)
+- [event.preventDefault()](../Development/JavaScript/Event/event.preventDefault().md)
+- [Event Bubbling](../Development/JavaScript/Event/Event%20Bubbling.md)
+- [event.stopPropagation()](../Development/JavaScript/Event/event.stopPropagation().md)
 ---
 ### Function Deep Dive
 - [js-Pure Function & Unpure Function](../Development/JavaScript/Function%20Deep%20Dive/js-Pure%20Function%20&%20Unpure%20Function.md)
 - [js-Side Effect](../Development/JavaScript/Function%20Deep%20Dive/js-Side%20Effect.md)
 - [js-Factory Function](../Development/JavaScript/Function%20Deep%20Dive/js-Factory%20Function.md)
-- [js-Closure](../Development/JavaScript/Function%20Deep%20Dive/js-Closure.md)
-- [js-Lexical Environment](../Development/JavaScript/Function%20Deep%20Dive/js-Lexical%20Environment.md)
-- [js-Environment Record](../Development/JavaScript/Function%20Deep%20Dive/js-Environment%20Record.md)
-- [js-IIFE](../../Stuff/Image/Resources/JavaScript/js-IIFE.md)
+- [Closure](../Development/JavaScript/Function%20Deep%20Dive/Closure.md)
+- [Lexical Environment](../Development/JavaScript/Function%20Deep%20Dive/Lexical%20Environment.md)
+- [Environment Record](../Development/JavaScript/Function%20Deep%20Dive/Environment%20Record.md)
+- [IIFE](../../Stuff/Image/Resources/JavaScript/IIFE.md)
 - [js-Recursion](../Development/JavaScript/Function%20Deep%20Dive/js-Recursion.md)
 ---
 ### Number & String
 - [js-number](../Development/JavaScript/Number%20&%20String/js-number.md)
 - [js-floadting point](../Development/JavaScript/Number%20&%20String/js-floadting%20point.md)
-- [js-BigInt](../Development/JavaScript/Number%20&%20String/js-BigInt.md)
-- [js-Tagged Template](../../js-Tagged%20Template.md)
-- [js-RegEx](../../js-RegEx.md)
+- [BigInt](../Development/JavaScript/Number%20&%20String/BigInt.md)
+- [js-Tagged Template](../Development/JavaScript/Number%20&%20String/js-Tagged%20Template.md)
+- [js-RegEx](../Development/JavaScript/Number%20&%20String/js-RegEx.md)
 ---
 ### 비동기 (Promise & Callback)
+- [js-Async & Sync](../Development/JavaScript/Promise%20&%20Callback/js-Async%20&%20Sync.md)
+- [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
 ---
 ### JavaScript Library
 ---

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a86339799050581",
+        "id": "c88dfa165eee35ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f26f53997b1a81a3",
+            "id": "1ded3ce7a11afa6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md",
+                "file": "CRLF IsSUE/CRLF Issue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md",
+                "file": "CRLF IsSUE/CRLF Issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md",
+                "file": "CRLF IsSUE/CRLF Issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/Svelte.md"
+                "file": "CRLF IsSUE/CRLF Issue.md"
               }
             }
           },
@@ -157,39 +157,41 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f26f53997b1a81a3",
+  "active": "1ded3ce7a11afa6d",
   "lastOpenFiles": [
-    "AOR/Dev-Index/React.md",
+    "Home.md",
+    "CRLF IsSUE/CRLF Issue.md",
+    "CRLF IsSUE",
+    "AOR/Development/JavaScript/Promise & Callback",
+    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+    "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
+    "AOR/Development/JavaScript/Number & String/js-최댓값, 최솟값 사이에서 무작위 숫자 생성.md",
+    "AOR/Development/JavaScript/Number & String/js-RegEx.md",
     "AOR/Dev-Index/JavaScript.md",
-    "AOR/Development/JavaScript/Number & String/js-number.md",
-    "js-Tagged Template.md",
-    "js-RegEx.md",
-    "Stuff/Template/JS Template.md",
-    "js-최댓값, 최솟값 사이에서 무작위 숫자 생성.md",
-    "AOR/Dev-Index/Svelte.md",
+    "AOR/Development/JavaScript/Promise & Callback/js-Async & Sync.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/var.md",
     "AOR/Dev-Index/CSS.md",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "AOR/Dev-Index/Blender.md",
-    "README.md",
+    "AOR/Development/JavaScript/Control Structure/js-Error Handling statement.md",
+    "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
+    "AOR/Development/JavaScript/Number & String/BigInt.md",
+    "Stuff/Image/Resources/JavaScript/IIFE.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
+    "AOR/Development/JavaScript/Event/event.stopPropagation().md",
+    "AOR/Development/JavaScript/Event/event.preventDefault().md",
+    "AOR/Development/JavaScript/Event/Event Bubbling.md",
+    "AOR/Development/JavaScript/DOM/DOM.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/WHATWG.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/let & const.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/ECMAScripts.md",
+    "AOR/Development/JavaScript/Basic Grammar/Shadowing.md",
     "AOR/Development/CSS/CSS Basics",
     "AOR/Development/CSS/Deep-Dive CSS",
     "AOR/Development/CSS/Selectors & CSS Features",
-    "AOR/Development/CSS/Selectors & CSS Features/css-CSSOM.md",
-    "AOR/Development/JavaScript/Number & String/js-BigInt.md",
     "AOR/Development/JavaScript/Number & String",
-    "Modal.md",
-    "AOR/Development/JavaScript/Number & String/js-floadting point.md",
-    "Home.md",
     "AOR/Development/JavaScript/DOM",
-    "AOR/Development/JavaScript/DOM/js-DOM.md",
-    "AOR/Development/JavaScript/DOM/js-Query Method.md",
-    "AOR/Development/JavaScript/DOM/js-console.dir().md",
-    "AOR/Development/JavaScript/DOM/js-DOM Traversing.md",
-    "템플릿 이름.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Closure.md",
-    "Stuff/Image/Resources/JavaScript/js-IIFE.md",
-    "AOR/Development/JavaScript/Advanced Function/js-REST 연산자.md",
     "AOR/Development/JavaScript/Advanced Function",
     "AOR/Development/JavaScript/Advanced Array & Repeat",
     "Stuff/Image/Resources/CSS/Pasted image 20230930182111.png",
@@ -202,8 +204,6 @@
     "Stuff/Image/Resources/CSS/Pasted image 20230930174238.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930144507.png",
     "Stuff/Image/Resources/CSS/Pasted image 20230930144433.png",
-    "Stuff/Image/Resources/CSS",
-    "Stuff/Image/Resources/Blender",
-    "AOR/Development/CSS"
+    "Stuff/Image/Resources/CSS"
   ]
 }
