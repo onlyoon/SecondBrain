@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
+                "file": "웹 사이트 작동 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
+                "file": "웹 사이트 작동 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
+                "file": "웹 사이트 작동 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md"
+                "file": "웹 사이트 작동 방식.md"
               }
             }
           },
@@ -159,11 +159,23 @@
   },
   "active": "0661842d8c41cd74",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
+    "Pasted image 20231005154924.png",
     "AOR/Dev-Index/JavaScript.md",
+    "웹 사이트 작동 방식.md",
     "AOR/Development/JavaScript/Promise & Callback/Promise.md",
+    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
+    "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
+    "AOR/Development/JavaScript/Advanced Array & Repeat/js-Spread 구문.md",
+    "AOR/Development/JavaScript/DOM/js-Query Method.md",
+    "AOR/Development/JavaScript/DOM/DOM.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-StringConcatenation.md",
+    "AOR/Development/JavaScript/효율적 개발 및 디버깅/구글링.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/var.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Function.md",
+    "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
     "Home.md",
     "README.md",
     "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
@@ -171,30 +183,18 @@
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Dev-Index/Svelte.md",
     "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
-    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/Computer Structure/Interrupt.md",
     "AOR/Development/Computer Structure/Status Register.md",
     "AOR/Development/Computer Structure",
-    "AOR/Dev-Index/Computer Structure.md",
-    "AOR/Development/Blockchain/PBFT.md",
-    "AOR/Development/Blockchain/Paxos.md",
-    "AOR/Development/Blockchain/Raft.md",
-    "AOR/Dev-Index/Blockchain.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
     "Pasted image 20231004140708.png",
     "Pasted image 20231004140659.png",
-    "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
     "Stuff/Image/AOR/Blockchain",
-    "AOR/Development/JavaScript/About JavaScript/JavaScript Definition.md",
-    "Stuff/Image/AOR/JavaScript/IIFE.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140037.png",
     "AOR/Dev-Index/Blockchain",
     "AOR/Development/Blockchain",
-    "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
-    "CRLF IsSUE/CRLF Issue.md",
     "CRLF IsSUE",
     "AOR/Development/JavaScript/Promise & Callback",
-    "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
     "AOR/Development/CSS/CSS Basics",
     "AOR/Development/CSS/Deep-Dive CSS",
     "AOR/Development/CSS/Selectors & CSS Features",

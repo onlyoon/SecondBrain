@@ -125,6 +125,9 @@
 - [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
 - [Promise](../Development/JavaScript/Promise%20&%20Callback/Promise.md)
 ---
+### Network Requests
+- [웹 사이트 작동 방식](../../웹%20사이트%20작동%20방식.md)
+---
 ### JavaScript Library
 ---
 ### Module
