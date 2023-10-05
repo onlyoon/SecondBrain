@@ -120,8 +120,10 @@
 - [js-RegEx](../Development/JavaScript/Number%20&%20String/js-RegEx.md)
 ---
 ### 비동기 (Promise & Callback)
-- [js-Async & Sync](../Development/JavaScript/Promise%20&%20Callback/js-Async%20&%20Sync.md)
+- [js-Async](../Development/JavaScript/Promise%20&%20Callback/js-Async.md)
+- [async & await](../Development/JavaScript/Promise%20&%20Callback/async%20&%20await.md)
 - [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
+- [Promise](../Development/JavaScript/Promise%20&%20Callback/Promise.md)
 ---
 ### JavaScript Library
 ---

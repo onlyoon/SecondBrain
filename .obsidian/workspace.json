@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0c3774f301bc35",
+        "id": "c7c5a58386f5a8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "a961f84ac3ae3e55",
+            "id": "0661842d8c41cd74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -157,21 +157,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a961f84ac3ae3e55",
+  "active": "0661842d8c41cd74",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
+    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
     "AOR/Dev-Index/JavaScript.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Semicolon.md",
+    "AOR/Development/JavaScript/Promise & Callback/Promise.md",
+    "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "Home.md",
+    "README.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Semicolon.md",
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Dev-Index/Svelte.md",
     "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
-    "AOR/Development/JavaScript/Promise & Callback/Promise.md",
     "AOR/Development/Computer Structure/Interrupt.md",
     "AOR/Development/Computer Structure/Status Register.md",
     "AOR/Development/Computer Structure",
-    "Home.md",
     "AOR/Dev-Index/Computer Structure.md",
     "AOR/Development/Blockchain/PBFT.md",
     "AOR/Development/Blockchain/Paxos.md",
@@ -188,13 +191,10 @@
     "AOR/Dev-Index/Blockchain",
     "AOR/Development/Blockchain",
     "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
-    "README.md",
     "CRLF IsSUE/CRLF Issue.md",
     "CRLF IsSUE",
     "AOR/Development/JavaScript/Promise & Callback",
     "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
-    "AOR/Development/JavaScript/Number & String/js-최댓값, 최솟값 사이에서 무작위 숫자 생성.md",
-    "AOR/Development/JavaScript/Number & String/js-RegEx.md",
     "AOR/Development/CSS/CSS Basics",
     "AOR/Development/CSS/Deep-Dive CSS",
     "AOR/Development/CSS/Selectors & CSS Features",
