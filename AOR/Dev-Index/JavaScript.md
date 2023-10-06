@@ -126,7 +126,9 @@
 - [Promise](../Development/JavaScript/Promise%20&%20Callback/Promise.md)
 ---
 ### Network Requests
-- [웹 사이트 작동 방식](../../웹%20사이트%20작동%20방식.md)
+- [웹 사이트 작동 방식](../Development/JavaScript/Network%20Requests/웹%20사이트%20작동%20방식.md)
+- [[HTTP]]
+- [JSON](../../JSON.md)
 ---
 ### JavaScript Library
 ---

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c5a58386f5a8f6",
+        "id": "52a686bc342b9cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "0661842d8c41cd74",
+            "id": "dfd60237684c7984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 사이트 작동 방식.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹 사이트 작동 방식.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹 사이트 작동 방식.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹 사이트 작동 방식.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,11 +157,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0661842d8c41cd74",
+  "active": "dfd60237684c7984",
   "lastOpenFiles": [
-    "Pasted image 20231005154924.png",
     "AOR/Dev-Index/JavaScript.md",
-    "웹 사이트 작동 방식.md",
+    "JSON.md",
+    "HTTP.md",
+    "XMLHttpRequest.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-StringConcatenation.md",
+    "템플릿 이름.md",
+    "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
+    "AOR/Development/JavaScript/Network Requests",
+    "AOR/Development/CSS/Selectors & CSS Features/css-webkit.md",
+    "Archive",
+    "AOR/Dev-Index/CSS.md",
+    "AOR/Development/CSS/Selectors & CSS Features/css-CSSOM.md",
+    "AOR/Development/CSS/Selectors & CSS Features/css-web browser rendering engine.md",
+    "Modal.md",
+    "Home.md",
+    "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
     "AOR/Development/JavaScript/Promise & Callback/Promise.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
@@ -169,22 +182,12 @@
     "AOR/Development/JavaScript/Advanced Array & Repeat/js-Spread 구문.md",
     "AOR/Development/JavaScript/DOM/js-Query Method.md",
     "AOR/Development/JavaScript/DOM/DOM.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-StringConcatenation.md",
     "AOR/Development/JavaScript/효율적 개발 및 디버깅/구글링.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/var.md",
     "AOR/Development/JavaScript/Basic Grammar/js-Function.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
     "AOR/Development/JavaScript/Promise & Callback/async & await.md",
-    "Home.md",
-    "README.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-Semicolon.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
-    "AOR/Dev-Index/Svelte.md",
-    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
-    "AOR/Development/Computer Structure/Interrupt.md",
-    "AOR/Development/Computer Structure/Status Register.md",
     "AOR/Development/Computer Structure",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
     "Pasted image 20231004140708.png",
@@ -197,13 +200,10 @@
     "AOR/Development/JavaScript/Promise & Callback",
     "AOR/Development/CSS/CSS Basics",
     "AOR/Development/CSS/Deep-Dive CSS",
-    "AOR/Development/CSS/Selectors & CSS Features",
-    "AOR/Development/JavaScript/Number & String",
     "Stuff/Image/AOR/CSS/Pasted image 20230930182111.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181945.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181931.png",
     "Stuff/Image/AOR/CSS/Pasted image 20230930181850.png",
-    "Stuff/Image/AOR/CSS/Pasted image 20230930181701.png",
-    "Pasted image 20230930181734.png"
+    "Stuff/Image/AOR/CSS/Pasted image 20230930181701.png"
   ]
 }
