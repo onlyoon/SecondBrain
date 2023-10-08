@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52a686bc342b9cdf",
+        "id": "5b08a8b6a4bb391c",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd60237684c7984",
+            "id": "2a85cb0728b82e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,9 +157,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dfd60237684c7984",
+  "active": "2a85cb0728b82e93",
   "lastOpenFiles": [
+    "AOR/Dev-Index/Svelte.md",
     "AOR/Dev-Index/JavaScript.md",
+    "Home.md",
     "JSON.md",
     "HTTP.md",
     "XMLHttpRequest.md",
@@ -173,7 +175,6 @@
     "AOR/Development/CSS/Selectors & CSS Features/css-CSSOM.md",
     "AOR/Development/CSS/Selectors & CSS Features/css-web browser rendering engine.md",
     "Modal.md",
-    "Home.md",
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
     "AOR/Development/JavaScript/Promise & Callback/Promise.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
@@ -187,7 +188,6 @@
     "AOR/Development/JavaScript/Basic Grammar/js-Function.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
-    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
     "AOR/Development/Computer Structure",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
     "Pasted image 20231004140708.png",
