@@ -130,7 +130,7 @@
 - [HTTP](../Development/JavaScript/Network%20Requests/HTTP.md)
 - [JSON](../Development/JavaScript/Network%20Requests/JSON.md)
 - [XMLHttpRequest](../Development/JavaScript/Network%20Requests/XMLHttpRequest.md)
-- [fetch API](../../fetch%20API.md)
+- [fetch API](../Development/JavaScript/Network%20Requests/fetch%20API.md)
 ---
 ### JavaScript Library
 ---

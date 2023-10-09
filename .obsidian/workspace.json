@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5110321044922,
-    "collapsed": true
+    "width": 343.5110321044922
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -160,8 +159,13 @@
   },
   "active": "4ee507afbb73630b",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/Control Structure/js-label statement.md",
+    "AOR/Development/JavaScript/Network Requests/HTTP.md",
     "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Network Requests/JSON.md",
+    "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
+    "AOR/Development/JavaScript/Network Requests/fetch API.md",
+    "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
+    "AOR/Development/JavaScript/Control Structure/js-label statement.md",
     "AOR/Development/JavaScript/Basic Grammar/StringConcatenation.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/strict mode.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Primitive value.md",
@@ -181,11 +185,6 @@
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
-    "AOR/Development/JavaScript/js-Built-in.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
-    "AOR/Development/JavaScript/Number & String/js-number.md",
-    "AOR/Development/JavaScript/Number & String/js-floadting point.md",
-    "AOR/Development/JavaScript/Number & String/BigInt.md",
     "AOR/Development/JavaScript/Network Requests",
     "Archive",
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",

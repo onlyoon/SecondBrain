@@ -30,4 +30,4 @@
 
 >[!warning]
 >DevTools의 Network탭에서 PayLoad를 보면, 어떤 데이터가 전송되었는지 알 수 있다.
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

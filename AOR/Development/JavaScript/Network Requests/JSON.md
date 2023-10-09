@@ -26,4 +26,4 @@
 	- `parse()`메서드: JSON 데이터를 Javascript로 변환해 준다.
 		- `xhr.responseType`과 동일하게 사용된다.
 ---
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

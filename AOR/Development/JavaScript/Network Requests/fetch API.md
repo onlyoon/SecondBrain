@@ -30,4 +30,4 @@ const sendHttpRequest = (url, method, data) => {
 
 >[!warning]
 >>fetch API의 추가 메서드를 통해 JSON객체의 데이터 뿐만 아니라, 스냅샷으로 반환해야 하는, 스트리밍 데이터를 얻을 수 있다.
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기
