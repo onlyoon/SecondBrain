@@ -6,7 +6,7 @@
 >>비동기 함수를 위해 사용되는 키워드이다.
 #### `async`
 - 비동기 함수를 선언하기 위한 키워드이다.
-- 함수 내부의 모든 것들을 [Promise](AOR/Development/JavaScript/Promise%20&%20Callback/Promise.md)객체로 감싼다.
+- 함수 내부의 모든 것들을 [Promise](Promise.md)객체로 감싼다.
 	- 추가되는 `then()`메서드는 자바스크립트에 의해 내부적으로 수행된다.
 - 항상 Promise 객체를 반환한다.
 

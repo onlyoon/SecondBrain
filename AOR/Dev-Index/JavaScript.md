@@ -111,6 +111,7 @@
 - [Environment Record](../Development/JavaScript/Function%20Deep%20Dive/Environment%20Record.md)
 - [IIFE](../Development/JavaScript/Function%20Deep%20Dive/IIFE.md)
 - [js-Recursion](../Development/JavaScript/Function%20Deep%20Dive/js-Recursion.md)
+- [js-Built-in](../Development/JavaScript/Function%20Deep%20Dive/js-Built-in.md)
 ---
 ### Number & String
 - [js-number](../Development/JavaScript/Number%20&%20String/js-number.md)

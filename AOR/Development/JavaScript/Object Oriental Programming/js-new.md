@@ -16,5 +16,4 @@ class Product {
 }
 const chickenProduct = new Product("Chicken");
 ```
-
 ### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

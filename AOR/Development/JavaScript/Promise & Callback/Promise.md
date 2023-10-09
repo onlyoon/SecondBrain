@@ -48,10 +48,10 @@ somePromiseCreatingCode()
 	 });
 ```
 #### resolve 함수
-- Promise 객체의 [Callback Function](AOR/Development/JavaScript/Advanced%20Function/Callback%20Function.md)(executor)에서 사용되는 함수로서 해당 함수가 호출되면, Promise객체가 내부적으로 해결됨(SUCCESS)을 표시하는 함수
+- Promise 객체의 [Callback Function](../Advanced%20Function/Callback%20Function.md)(executor)에서 사용되는 함수로서 해당 함수가 호출되면, Promise객체가 내부적으로 해결됨(SUCCESS)을 표시하는 함수
 - 해결됨을 알리기 위한 인자를 넣는 것이 가능하다.
 #### reject 함수
-- Promise 객체의 [Callback Function](AOR/Development/JavaScript/Advanced%20Function/Callback%20Function.md)(executor)에서 사용되는 함수로서 해당 함수가 호출되면, Promise객체가 내부적으로 실패함(FAIL)을 표시하는 함수
+- Promise 객체의 [Callback Function](../Advanced%20Function/Callback%20Function.md)(executor)에서 사용되는 함수로서 해당 함수가 호출되면, Promise객체가 내부적으로 실패함(FAIL)을 표시하는 함수
 - 실패함을 알리기 위한 인자를 넣는 것이 가능하다.
 #### Promise Chain
 - 첫 번째 Promise객체가 들어있는 함수(ex. getPosition)가 끝날 때까지 기다리다가, 반환 시, 꼭 무언가의 값을 반환해야 한다.

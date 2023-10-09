@@ -5,9 +5,9 @@
 >
 >>서버와 프로토콜로 상호작용하기 위해, 사용하는 API
 >
->>[XMLHttpRequest](AOR/Development/JavaScript/Network%20Requests/XMLHttpRequest.md)를 보완한 자바스크립트의 최신형 API, 구세대 브라우저에서 지원하지 않는다.
+>>[XMLHttpRequest](XMLHttpRequest.md)를 보완한 자바스크립트의 최신형 API, 구세대 브라우저에서 지원하지 않는다.
 >
->>[Promise](AOR/Development/JavaScript/Promise%20&%20Callback/Promise.md)를 기반으로 한 함수이자, 함수 자체적으로 지원해 [Promise](AOR/Development/JavaScript/Promise%20&%20Callback/Promise.md) 객체를 반환하는 API이다.
+>>[Promise](../Promise%20&%20Callback/Promise.md)를 기반으로 한 함수이자, 함수 자체적으로 지원해 [Promise](../Promise%20&%20Callback/Promise.md) 객체를 반환하는 API이다.
 >
 >>fetch API는 파싱된 응답이 아닌, 스트리밍된 응답을 반환한다.
 #### 코드 예시

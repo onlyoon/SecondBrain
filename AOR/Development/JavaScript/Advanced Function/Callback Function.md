@@ -41,7 +41,7 @@ getCurrentPosition(() => {
 >[!warning]
 >>콜백함수를 중첩시킬 수록 코드가 더 읽기 힘들어지고 유지되기 어려워진다.
 >
->>중첩된 콜백 함수는 [Closure](AOR/Development/JavaScript/Function%20Deep%20Dive/Closure.md)때문에 함수 내부의 환경과 외부의 환경의 접근이 가능하다. 그러나 외부의 함수는, 내부의 환경에 접근이 불가능하다.
+>>중첩된 콜백 함수는 [Closure](../Function%20Deep%20Dive/Closure.md)때문에 함수 내부의 환경과 외부의 환경의 접근이 가능하다. 그러나 외부의 함수는, 내부의 환경에 접근이 불가능하다.
 >
 >>브라우저가 콜백 함수를 실행하려면, 항상 Message Queue와 EventLoop에 대한 경로를 가져야 한다.
 ### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
