@@ -14,4 +14,4 @@
 (0.2 * 1000 + 0.4 * 1000) / 1000;
 // 0.6
 ```
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

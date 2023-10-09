@@ -32,4 +32,4 @@ console.log(productOutput);
 ```
 #### 추가 정보
 - [Tagged Template(MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_templates)
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -35,4 +35,4 @@
 	- `태그 이름.nextSibling  
 	- 📖 가장 가까운 이후 형제 요소 노드 반  
 ---
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

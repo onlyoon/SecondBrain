@@ -73,4 +73,4 @@ async function trackUserHandler() {
 >>`async`함수는 하나의 함수 내에서 동시에 작업을 실행할 수 없다.
 #### 추가 정보
 - [async & await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

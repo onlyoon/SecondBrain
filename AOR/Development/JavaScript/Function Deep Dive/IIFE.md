@@ -23,4 +23,4 @@ life(); // "Immediately Invoked Function Expression!"
 	console.log("Immediately Invoked Function Expression!");
 })(); // "Immediately Invoked Function Expression!"
 ```
-### [JavaScript](../../../../AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

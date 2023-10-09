@@ -21,4 +21,4 @@
 	- 실제 `window`에 접근할 수 없고 스크립트가 실행 중인 탭에만 접근 가능⭕️
 		- 다른 탭에 로드된 다른 웹페이지와 상호작용이 불가능❌
 
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -12,4 +12,4 @@
 	- 해당 작업을 브라우저에서 Off-Load시켜 다중 스레드를 사용할 수 있게 한다.
 	- Off-Load된 자바스크립트로 쓰여진 작업과 브라우저와 다시 소통해야 할 경우, [Callback Function](../Advanced%20Function/Callback%20Function.md)(진동벨)를 사용한다. 
 	- Callback Function 사용 시, 브라우저의 다른 연산이 끝나면 호출된다.
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

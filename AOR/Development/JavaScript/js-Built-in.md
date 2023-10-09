@@ -36,4 +36,4 @@
 	- `Global object`
 
 
-### [[JavaScript]] Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

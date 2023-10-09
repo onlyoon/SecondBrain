@@ -21,4 +21,4 @@ Number.MIN_SAFE_INTEGER
 ```
 #### 추가 정보
 - [Number (mozilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

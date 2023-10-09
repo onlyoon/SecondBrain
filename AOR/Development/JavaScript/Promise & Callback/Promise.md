@@ -162,4 +162,4 @@ Promise.allSettled([getPosition(), setTimer(1000)]).then(data => {
 >>`finally()`메서드는 무조건 추가할 필요가 없습니다.
 #### 추가 정보
 - [Promise](https://developers.google.com/web/fundamentals/primers/promises)
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

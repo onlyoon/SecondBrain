@@ -3,7 +3,7 @@
 >[!note]
 >#### 원시값
 >
->>String, Numbers, Booleans, Null, undefined, Symbol
+>>`String`, `Numbers`, `Booleans`, `Null`, `undefined`, `Symbol`
 >
 >>스텍 메모리(Call Stack)에 저장
 >

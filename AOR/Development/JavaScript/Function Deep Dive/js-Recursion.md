@@ -81,4 +81,4 @@ function getFriendNames(person) {
 ---
 #### 추가 정보
 - [재귀 (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Recursion)
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

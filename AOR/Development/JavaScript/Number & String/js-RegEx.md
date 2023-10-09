@@ -10,4 +10,4 @@
 
 >[!warning]
 >>정규 표현식은 대소문자를 구분한다.
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

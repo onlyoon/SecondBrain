@@ -24,4 +24,4 @@ BigInt(90071992547409919);
 >>5n / 2n일 경우 2.5n이 아닌 2n이 나타난다. 소수를 표현하는 것이 불가능하기 때문이다.
 >
 >>BigInt 숫자를 다른 타입의 숫자와 계산하는 것이 불가능하다.
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

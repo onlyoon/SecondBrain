@@ -6,7 +6,7 @@
 - [js-Variable](../Development/JavaScript/Basic%20Grammar/js-Variable.md)
 - [js-Constant](../Development/JavaScript/Basic%20Grammar/js-Constant.md)
 - [js-Semicolon](../Development/JavaScript/Basic%20Grammar/js-Semicolon.md)
-- [js-StringConcatenation](../Development/JavaScript/Basic%20Grammar/js-StringConcatenation.md)
+- [StringConcatenation](../Development/JavaScript/Basic%20Grammar/StringConcatenation.md)
 - [js-TemplateLiteral](../Development/JavaScript/Basic%20Grammar/js-TemplateLiteral.md)
 - [js-Function](../Development/JavaScript/Basic%20Grammar/js-Function.md)
 - [Shadowing](../Development/JavaScript/Basic%20Grammar/Shadowing.md)
@@ -29,11 +29,11 @@
 - [ECMAScripts](../Development/JavaScript/ES5%20vs.%20ES6/ECMAScripts.md)
 - [var](../Development/JavaScript/ES5%20vs.%20ES6/var.md)
 - [let & const](../Development/JavaScript/ES5%20vs.%20ES6/let%20&%20const.md)
-- [js-strict mode](../Development/JavaScript/ES5%20vs.%20ES6/js-strict%20mode.md)
+- [strict mode](../Development/JavaScript/ES5%20vs.%20ES6/strict%20mode.md)
 - [js-Data Management](js-Data%20Management) need to be fixed
 - [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
 - [WHATWG](../Development/JavaScript/ES5%20vs.%20ES6/WHATWG.md)
-- [js-Primitive value](../Development/JavaScript/ES5%20vs.%20ES6/js-Primitive%20value.md)
+- [Primitive value](../Development/JavaScript/ES5%20vs.%20ES6/Primitive%20value.md)
 - [js-Reference value](js-Reference%20value) need to be fixed
 - [js-Garbage Collection & Memory Leak](../Development/JavaScript/ES5%20vs.%20ES6/js-Garbage%20Collection%20&%20Memory%20Leak.md)
 ---
@@ -55,9 +55,9 @@
 - [[js-Node]]
 - [[js-Element]]
 - [js-Query Method](../Development/JavaScript/DOM/js-Query%20Method.md)
-- [js-console.dir()](../Development/JavaScript/DOM/js-console.dir().md)
+- [console.dir()](../Development/JavaScript/DOM/console.dir().md)
 - [[js-Attribute vs. Property]]
-- [js-DOM Traversing](../Development/JavaScript/DOM/js-DOM%20Traversing.md)
+- [DOM Traversing](../Development/JavaScript/DOM/DOM%20Traversing.md)
 ---
 ### Advanced Array & Repeat
 - [[js-Iterable]]
@@ -109,7 +109,7 @@
 - [Closure](../Development/JavaScript/Function%20Deep%20Dive/Closure.md)
 - [Lexical Environment](../Development/JavaScript/Function%20Deep%20Dive/Lexical%20Environment.md)
 - [Environment Record](../Development/JavaScript/Function%20Deep%20Dive/Environment%20Record.md)
-- [IIFE](../../Stuff/Image/AOR/JavaScript/IIFE.md)
+- [IIFE](../Development/JavaScript/Function%20Deep%20Dive/IIFE.md)
 - [js-Recursion](../Development/JavaScript/Function%20Deep%20Dive/js-Recursion.md)
 ---
 ### Number & String
@@ -127,9 +127,10 @@
 ---
 ### Network Requests
 - [웹 사이트 작동 방식](../Development/JavaScript/Network%20Requests/웹%20사이트%20작동%20방식.md)
-- [HTTP](../../HTTP.md)
-- [JSON](../../JSON.md)
-- [XMLHttpRequest](../../XMLHttpRequest.md)
+- [HTTP](../Development/JavaScript/Network%20Requests/HTTP.md)
+- [JSON](../Development/JavaScript/Network%20Requests/JSON.md)
+- [XMLHttpRequest](../Development/JavaScript/Network%20Requests/XMLHttpRequest.md)
+- [fetch API](../../fetch%20API.md)
 ---
 ### JavaScript Library
 ---

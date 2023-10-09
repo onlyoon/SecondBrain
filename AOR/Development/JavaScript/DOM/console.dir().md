@@ -5,4 +5,4 @@
 >
 >>객체의 속성을 계층구조로 출력  
 
-### [JavaScript](AOR/Dev-Index/JavaScript.md) Index로 돌아가기
+### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기
