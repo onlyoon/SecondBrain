@@ -127,8 +127,9 @@
 ---
 ### Network Requests
 - [웹 사이트 작동 방식](../Development/JavaScript/Network%20Requests/웹%20사이트%20작동%20방식.md)
-- [[HTTP]]
+- [HTTP](../../HTTP.md)
 - [JSON](../../JSON.md)
+- [XMLHttpRequest](../../XMLHttpRequest.md)
 ---
 ### JavaScript Library
 ---

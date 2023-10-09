@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b08a8b6a4bb391c",
+        "id": "acd93d4c080881bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2a85cb0728b82e93",
+            "id": "4ee507afbb73630b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,14 +157,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a85cb0728b82e93",
+  "active": "4ee507afbb73630b",
   "lastOpenFiles": [
-    "AOR/Dev-Index/Svelte.md",
-    "AOR/Dev-Index/JavaScript.md",
-    "Home.md",
     "JSON.md",
-    "HTTP.md",
+    "AOR/Dev-Index/JavaScript.md",
     "XMLHttpRequest.md",
+    "Home.md",
+    "HTTP.md",
+    "사용법.md",
+    "AOR/Dev-Index/Svelte.md",
     "AOR/Development/JavaScript/Basic Grammar/js-StringConcatenation.md",
     "템플릿 이름.md",
     "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
@@ -187,7 +188,6 @@
     "AOR/Development/JavaScript/ES5 vs. ES6/var.md",
     "AOR/Development/JavaScript/Basic Grammar/js-Function.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
     "AOR/Development/Computer Structure",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
     "Pasted image 20231004140708.png",
