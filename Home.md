@@ -27,7 +27,7 @@ cssclass: dashboard
     - [[React]]
     - [[JavaScript]]
     - [[Svelte]]
-    - [[CSS]]
+    - [[AOR/Dev-Index/CSS]]
     - [[Blender]]
 - Blockchain
 	- Ethereum
