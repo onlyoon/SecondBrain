@@ -132,6 +132,8 @@
 - [JSON](../Development/JavaScript/Network%20Requests/JSON.md)
 - [XMLHttpRequest](../Development/JavaScript/Network%20Requests/XMLHttpRequest.md)
 - [fetch API](../Development/JavaScript/Network%20Requests/fetch%20API.md)
+- [FormData](../Development/JavaScript/Network%20Requests/FormData.md)
+- [Using_files_from_web_applications](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 ---
 ### JavaScript Library
 ---

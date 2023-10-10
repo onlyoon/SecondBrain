@@ -1,7 +1,4 @@
 #aor 
-- 출처
-	- https://developer.mozilla.org/ko/docs/Web/API/XMLHttpRequest
-	- https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
 ### XMLHttpRequest
 >[!note]
 >#### XMLHttpRequest 객체
@@ -63,4 +60,6 @@ fetchSomething();
 >>서버 실패에 대한 상태 코드가 반환시, `onerror`메서드가 아닌 `onload`메서드에만 해당 오류가 기록된다.
 >
 >>요청이 실패했을 경우, `onerror` 메서드에 해당 오류가 기록된다. 
+#### 추가 정보
+- [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 ### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

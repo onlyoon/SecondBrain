@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "acd93d4c080881bc",
+        "id": "7b31d2386f3ca6b7",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee507afbb73630b",
+            "id": "f0b6d59456c711db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AOR/Dev-Index/JavaScript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,11 +149,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ee507afbb73630b",
+  "active": "f0b6d59456c711db",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/Network Requests/fetch API.md",
     "AOR/Dev-Index/JavaScript.md",
+    "README.md",
     "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
+    "AOR/Development/JavaScript/Network Requests/fetch API.md",
+    "AOR/Development/JavaScript/Network Requests/FormData.md",
+    "Home.md",
     "AOR/Development/JavaScript/Network Requests/JSON.md",
     "AOR/Development/JavaScript/Network Requests/HTTP.md",
     "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
@@ -182,9 +177,6 @@
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Side Effect.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Pure Function & Unpure Function.md",
-    "AOR/Development/JavaScript/Event/event.stopPropagation().md",
-    "AOR/Development/JavaScript/Event/Event Bubbling.md",
     "AOR/Development/JavaScript/Network Requests",
     "Archive",
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
