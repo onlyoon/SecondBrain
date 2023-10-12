@@ -29,8 +29,8 @@
 - [[css-float]]
 ---
 ### Positioning
-- [css-position](../../css-position.md)
-- [z-index](../../z-index.md)
+- [css-position](../Development/CSS/Positioning/css-position.md)
+- [z-index](../Development/CSS/Positioning/z-index.md)
 ---
 ### BackgroundImage & Images
 ---

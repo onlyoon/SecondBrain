@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "AOR/Development/CSS/Positioning/css-position.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5110321044922,
-    "collapsed": true
+    "width": 343.5110321044922
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Development/CSS/Positioning/css-position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Development/CSS/Positioning/css-position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "AOR/Development/CSS/Positioning/css-position.md"
               }
             }
           },
@@ -161,9 +160,20 @@
   "active": "7c2ba52d2f23eabf",
   "lastOpenFiles": [
     "AOR/Dev-Index/CSS.md",
-    "css-position.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-visibility-hidden & display-none.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-display.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-Shorthand Properties.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-Box model.md",
+    "AOR/Development/CSS/CSS Basics/css-Specificity.md",
+    "AOR/Development/CSS/CSS Basics/css-Selector.md",
+    "AOR/Development/CSS/CSS Basics/css-CSS.md",
+    "AOR/Development/CSS/CSS Basics/css-Combinator.md",
+    "AOR/Development/CSS/Positioning/z-index.md",
+    "AOR/Development/CSS/Positioning/css-position.md",
+    "AOR/Development/CSS/Positioning",
     "CSS.md",
-    "z-index.md",
+    "Home.md",
     "AOR/Development/Computer Structure/연산기.md",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011185814.png",
@@ -181,15 +191,6 @@
     "사용법.md",
     "Modal.md",
     "README.md",
-    "Home.md",
-    "알고리즘 과제.md",
-    "무제 파일.md",
-    "AOR/Dev-Index/JavaScript.md",
-    "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
-    "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
-    "AOR/Development/JavaScript/Network Requests/fetch API.md",
-    "AOR/Development/JavaScript/Network Requests/FormData.md",
-    "AOR/Development/JavaScript/Network Requests/JSON.md",
     "AOR/Development/JavaScript/Network Requests",
     "Archive",
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
@@ -203,7 +204,6 @@
     "AOR/Development/Blockchain",
     "CRLF IsSUE",
     "AOR/Development/JavaScript/Promise & Callback",
-    "AOR/Development/CSS/CSS Basics",
     "Stuff/Image/AOR/CSS/Pasted image 20230930182111.png"
   ]
 }
