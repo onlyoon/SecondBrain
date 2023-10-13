@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/JavaScript/Advanced Function/Callback Function.md"
+                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "dd9f2b46d944d277",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+    "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
     "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
@@ -190,7 +191,6 @@
     "Stuff/Image/AOR/Computer Structure",
     "AOR/Development/Computer Structure/명령어 사이클.md",
     "AOR/Development/Computer Structure/레지스터.md",
-    "AOR/Development/Computer Structure/상태 레지스터.md",
     "AOR/Development/JavaScript/Network Requests",
     "Archive",
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
