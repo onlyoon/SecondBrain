@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab73f6e35853b6d",
+        "id": "64fc1d3f171d1e07",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9f2b46d944d277",
+            "id": "4eccc4b041085bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "constructor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 343.5110321044922
+    "width": 343.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/JavaScript/Function Deep Dive/IIFE.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,15 +159,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd9f2b46d944d277",
+  "active": "4eccc4b041085bd3",
   "lastOpenFiles": [
+    "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
+    "requestAnimationFrame.md",
+    "무제 파일.md",
+    "Drawing Context.md",
+    "Home.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
     "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
-    "Home.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
     "AOR/Development/JavaScript/Promise & Callback/async & await.md",
     "README.md",
@@ -182,15 +188,11 @@
     "AOR/Development/CSS/CSS Basics/css-Combinator.md",
     "AOR/Development/CSS/Positioning/z-index.md",
     "AOR/Development/CSS/Positioning",
-    "CSS.md",
-    "AOR/Development/Computer Structure/연산기.md",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011185814.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011175938.png",
     "Pasted image 20231011190113.png",
     "Stuff/Image/AOR/Computer Structure",
-    "AOR/Development/Computer Structure/명령어 사이클.md",
-    "AOR/Development/Computer Structure/레지스터.md",
     "AOR/Development/JavaScript/Network Requests",
     "Archive",
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
