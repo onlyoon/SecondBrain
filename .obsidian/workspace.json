@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64fc1d3f171d1e07",
+        "id": "e901432db895a1b6",
         "type": "tabs",
         "children": [
           {
-            "id": "4eccc4b041085bd3",
+            "id": "9d6616cc2f045e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "AOR/Development/JavaScript/JavaScript Library/Axios.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5110321044922,
-    "collapsed": true
+    "width": 343.5110321044922
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Development/JavaScript/JavaScript Library/Axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Development/JavaScript/JavaScript Library/Axios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "AOR/Development/JavaScript/JavaScript Library/Axios.md"
               }
             }
           },
@@ -159,14 +157,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4eccc4b041085bd3",
+  "active": "9d6616cc2f045e01",
   "lastOpenFiles": [
+    "Home.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/JavaScript Library/Axios.md",
+    "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md",
+    "AOR/Development/JavaScript/JavaScript Library",
+    "멘토링.md",
+    "AOR/Dev-Index/Computer Structure.md",
+    "AOR/Development/Computer Structure/연산기.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
     "requestAnimationFrame.md",
     "무제 파일.md",
     "Drawing Context.md",
-    "Home.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
@@ -182,11 +186,6 @@
     "AOR/Development/CSS/Deep-Dive CSS/css-Shorthand Properties.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Box model.md",
-    "AOR/Development/CSS/CSS Basics/css-Specificity.md",
-    "AOR/Development/CSS/CSS Basics/css-Selector.md",
-    "AOR/Development/CSS/CSS Basics/css-CSS.md",
-    "AOR/Development/CSS/CSS Basics/css-Combinator.md",
-    "AOR/Development/CSS/Positioning/z-index.md",
     "AOR/Development/CSS/Positioning",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011185814.png",
@@ -205,7 +204,6 @@
     "AOR/Dev-Index/Blockchain",
     "AOR/Development/Blockchain",
     "CRLF IsSUE",
-    "AOR/Development/JavaScript/Promise & Callback",
     "Stuff/Image/AOR/CSS/Pasted image 20230930182111.png"
   ]
 }

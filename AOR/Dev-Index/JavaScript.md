@@ -136,6 +136,9 @@
 - [Using_files_from_web_applications](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 ---
 ### JavaScript Library
+- [js-Third-Party Library](../Development/JavaScript/JavaScript%20Library/js-Third-Party%20Library.md)
+- [Axios](../Development/JavaScript/JavaScript%20Library/Axios.md)
+- 
 ---
 ### Module
 ---
