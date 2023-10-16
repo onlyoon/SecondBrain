@@ -138,7 +138,6 @@
 ### JavaScript Library
 - [js-Third-Party Library](../Development/JavaScript/JavaScript%20Library/js-Third-Party%20Library.md)
 - [Axios](../Development/JavaScript/JavaScript%20Library/Axios.md)
-- 
 ---
 ### Module
 ---
