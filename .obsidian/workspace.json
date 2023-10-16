@@ -35,11 +35,9 @@
             "id": "35e30e633fd0852a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231016134451.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
+                "file": "Pasted image 20231016134451.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
+                "file": "Pasted image 20231016134451.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md"
+                "file": "Pasted image 20231016134451.png"
               }
             }
           },
@@ -182,16 +180,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35e30e633fd0852a",
+  "active": "6a190077dc89d014",
   "lastOpenFiles": [
-    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
+    "Pasted image 20231017005939.png",
+    "Pasted image 20231016134451.png",
+    "Pasted image 20231017005936.png",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
+    "Stuff/Image/AOR/Algorithm & DataStructure/Binary_search_tree_example.gif",
+    "Stuff/Image/AOR/Algorithm & DataStructure",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "AOR/Development/Algorith & DataStructure/Binary Search Tree",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
+    "AOR/Development/JavaScript/Number & String/BigInt.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Dev-Index/React.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree",
     "AOR/Development/Algorith & DataStructure/Heap.md",
     "Home.md",
-    "Pasted image 20231016134451.png",
     "AOR/Development/Computer Structure/상태 레지스터.md",
     "블록체인 리뷰.md",
     "AOR/Dev-Index/Computer Structure.md",
@@ -200,7 +205,6 @@
     "AOR/Development/Computer Structure/명령어 사이클.md",
     "AOR/Development/Computer Structure/중앙처리장치.md",
     "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/JavaScript Library/Axios.md",
     "AOR/Development/JavaScript/JavaScript Library",
     "멘토링.md",
@@ -210,9 +214,6 @@
     "무제 파일.md",
     "Drawing Context.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
-    "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
-    "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
     "AOR/Development/CSS/Positioning",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011185814.png",
@@ -224,11 +225,7 @@
     "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
     "AOR/Development/Computer Structure",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
-    "Pasted image 20231004140708.png",
-    "Pasted image 20231004140659.png",
     "Stuff/Image/AOR/Blockchain",
-    "Stuff/Image/AOR/Blockchain/Pasted image 20231004140037.png",
-    "AOR/Dev-Index/Blockchain",
-    "AOR/Development/Blockchain"
+    "AOR/Dev-Index/Blockchain"
   ]
 }
