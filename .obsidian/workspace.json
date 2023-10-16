@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "791786453ab35155",
+        "id": "3b17e225f1f9f220",
         "type": "tabs",
         "children": [
           {
-            "id": "3bec5ff6e943ba2b",
+            "id": "74f9d1c8e48e10ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fb710c37222a9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AOR/Development/Algorith & DataStructure/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35e30e633fd0852a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md"
               }
             }
           },
@@ -157,15 +182,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3bec5ff6e943ba2b",
+  "active": "35e30e633fd0852a",
   "lastOpenFiles": [
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
+    "AOR/Development/Algorith & DataStructure/Heap.md",
+    "Home.md",
+    "Pasted image 20231016134451.png",
+    "AOR/Development/Computer Structure/상태 레지스터.md",
+    "블록체인 리뷰.md",
+    "AOR/Dev-Index/Computer Structure.md",
+    "AOR/Development/Computer Structure/처리장치.md",
+    "AOR/Development/Computer Structure/제어장치.md",
+    "AOR/Development/Computer Structure/명령어 사이클.md",
+    "AOR/Development/Computer Structure/중앙처리장치.md",
     "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/JavaScript Library/Axios.md",
-    "Home.md",
     "AOR/Development/JavaScript/JavaScript Library",
     "멘토링.md",
-    "AOR/Dev-Index/Computer Structure.md",
     "AOR/Development/Computer Structure/연산기.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
     "requestAnimationFrame.md",
@@ -175,17 +213,6 @@
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
-    "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
-    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
-    "README.md",
-    "AOR/Dev-Index/CSS.md",
-    "AOR/Development/CSS/Positioning/css-position.md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-visibility-hidden & display-none.md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-display.md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-Shorthand Properties.md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-Box model.md",
     "AOR/Development/CSS/Positioning",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011185814.png",
@@ -202,8 +229,6 @@
     "Stuff/Image/AOR/Blockchain",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231004140037.png",
     "AOR/Dev-Index/Blockchain",
-    "AOR/Development/Blockchain",
-    "CRLF IsSUE",
-    "Stuff/Image/AOR/CSS/Pasted image 20230930182111.png"
+    "AOR/Development/Blockchain"
   ]
 }
