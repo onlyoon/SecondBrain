@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74f9d1c8e48e10ad",
+            "id": "f340f7350b376f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9fb710c37222a9e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35e30e633fd0852a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231016134451.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231016134451.png",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231016134451.png",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231016134451.png"
+                "file": "Home.md"
               }
             }
           },
@@ -180,23 +157,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a190077dc89d014",
+  "active": "f340f7350b376f06",
   "lastOpenFiles": [
-    "Pasted image 20231017005939.png",
-    "Pasted image 20231016134451.png",
-    "Pasted image 20231017005936.png",
+    "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
+    "AOR/Development/Algorith & DataStructure/Tree Traversal/BFS.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
+    "AOR/Development/Algorith & DataStructure/Tree Traversal/Tree Traversal.md",
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
+    "AOR/Development/Algorith & DataStructure/Tree Traversal",
+    "Stuff/Image/AOR/Algorithm & DataStructure/img.gif",
+    "Pasted image 20231016134451.png",
+    "Stuff/Image/AOR/Algorithm & DataStructure/img (1).gif",
+    "README.md",
+    "Home.md",
+    "Pasted image 20231017005939.png",
+    "Pasted image 20231017005936.png",
     "Stuff/Image/AOR/Algorithm & DataStructure/Binary_search_tree_example.gif",
     "Stuff/Image/AOR/Algorithm & DataStructure",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Tree.md",
-    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
     "AOR/Development/JavaScript/Number & String/BigInt.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Dev-Index/React.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree",
     "AOR/Development/Algorith & DataStructure/Heap.md",
-    "Home.md",
     "AOR/Development/Computer Structure/상태 레지스터.md",
     "블록체인 리뷰.md",
     "AOR/Dev-Index/Computer Structure.md",
@@ -211,9 +195,6 @@
     "AOR/Development/Computer Structure/연산기.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
     "requestAnimationFrame.md",
-    "무제 파일.md",
-    "Drawing Context.md",
-    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/CSS/Positioning",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011185814.png",
@@ -222,10 +203,7 @@
     "Stuff/Image/AOR/Computer Structure",
     "AOR/Development/JavaScript/Network Requests",
     "Archive",
-    "Stuff/Image/AOR/JavaScript/Pasted image 20231005154924.png",
     "AOR/Development/Computer Structure",
-    "Stuff/Image/AOR/Blockchain/Pasted image 20231004140738.png",
-    "Stuff/Image/AOR/Blockchain",
-    "AOR/Dev-Index/Blockchain"
+    "Stuff/Image/AOR/Blockchain"
   ]
 }

@@ -148,4 +148,12 @@ tree.find(16); // true
 
 >[!note]
 >>삽입 및 탐색에 대한 메서드 로직이 동일하니, 재사용이 가능할 것 같다.
+
+#### 백준
+- [5639번](https://www.acmicpc.net/problem/5639)
+- [1268번](https://www.acmicpc.net/problem/1269)
+- [1620번](https://www.acmicpc.net/problem/1620)
+- [1351번](https://www.acmicpc.net/problem/1351)
+- [2287번](https://www.acmicpc.net/problem/2287)
+- [2957번](https://www.acmicpc.net/problem/2957) - RED BLACK TREE
 ### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) Index로 돌아가기
