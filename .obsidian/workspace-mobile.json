@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f60dcae44ab29e47",
+        "id": "e20262dfad132712",
         "type": "tabs",
         "children": [
           {
-            "id": "e3133ad6145234cc",
+            "id": "e086d26d357c9c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -71,6 +71,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "26432aaa3f79e0be",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AOR/Dev-Index/CSS.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AOR/Dev-Index/CSS.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AOR/Dev-Index/CSS.md"
+            "file": "Home.md"
           }
         }
       }
@@ -132,7 +142,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3133ad6145234cc",
+  "active": "e086d26d357c9c08",
   "lastOpenFiles": [
     "z-index.md",
     "AOR/Dev-Index/CSS.md",

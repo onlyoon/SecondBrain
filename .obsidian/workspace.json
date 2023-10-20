@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "409ad8c9a3ffa777",
+        "id": "36fa9ea006cc93a0",
         "type": "tabs",
         "children": [
           {
-            "id": "824ae2c5983bb01f",
+            "id": "a59dd6e116397df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,14 +157,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "824ae2c5983bb01f",
+  "active": "a59dd6e116397df9",
   "lastOpenFiles": [
+    "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
+    "AOR/Dev-Index/CSS.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-Box model.md",
+    "Home.md",
     "AOR/Dev-Index/Computer Structure.md",
     "블록체인 멘토링 강의.md",
-    "AOR/Dev-Index/CSS.md",
     "AOR/Dev-Index/JavaScript.md",
     "컴퓨터 구조 수시고사.md",
-    "Home.md",
     "무제 파일 1.md",
     "블록체인 리뷰.md",
     "사용법.md",
@@ -192,8 +194,6 @@
     "AOR/Development/Algorith & DataStructure/Heap.md",
     "AOR/Development/Computer Structure/상태 레지스터.md",
     "AOR/Development/Computer Structure/처리장치.md",
-    "AOR/Development/Computer Structure/제어장치.md",
-    "AOR/Development/Computer Structure/명령어 사이클.md",
     "AOR/Development/JavaScript/JavaScript Library",
     "AOR/Development/CSS/Positioning",
     "Stuff/Image/AOR/Computer Structure/Pasted image 20231011190139.png",
