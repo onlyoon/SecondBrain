@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72c2ce79759e62fb",
+        "id": "2d1b26e5b31763eb",
         "type": "tabs",
         "children": [
           {
-            "id": "84765f721822f5b2",
+            "id": "561df73085d52631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "requestAnimationFrame.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "requestAnimationFrame.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "requestAnimationFrame.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "requestAnimationFrame.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,9 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84765f721822f5b2",
+  "active": "561df73085d52631",
   "lastOpenFiles": [
     "AOR/Dev-Index/CSS.md",
+    "requestAnimationFrame.md",
     "Home.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Pseudo.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
@@ -172,7 +173,6 @@
     "블록체인 리뷰.md",
     "사용법.md",
     "Drawing Context.md",
-    "requestAnimationFrame.md",
     "README.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal/BFS.md",
