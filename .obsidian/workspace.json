@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d17ba9ec09579229",
+        "id": "6ecf43c19a0ff61b",
         "type": "tabs",
         "children": [
           {
-            "id": "91182759a980d0e0",
+            "id": "477a634dc4b4b37f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "알고리즘 수시고사.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "알고리즘 수시고사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "알고리즘 수시고사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "알고리즘 수시고사.md"
               }
             }
           },
@@ -157,18 +157,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "91182759a980d0e0",
+  "active": "477a634dc4b4b37f",
   "lastOpenFiles": [
+    "Pasted image 20231023152842.png",
+    "컴퓨터 구조 수시고사.md",
+    "Home.md",
     "멘토링.md",
     "알고리즘 수시고사.md",
     "사용법.md",
     "Drawing Context.md",
-    "Home.md",
     "README.md",
     "Modal.md",
     "Pasted image 20231016134451.png",
     "requestAnimationFrame.md",
-    "컴퓨터 구조 수시고사.md",
     "블록체인 리뷰.md",
     "블록체인 멘토링 강의.md",
     "AOR/Dev-Index/Blender.md",
@@ -195,7 +196,6 @@
     "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal/BFS.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
-    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal",
     "Stuff/Image/AOR/Algorithm & DataStructure",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree",
