@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2587ee6cdc9f4e",
+        "id": "8ad004d10557370e",
         "type": "tabs",
         "children": [
           {
-            "id": "dd22999978d907b3",
+            "id": "598c1473f2bc051b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,12 +157,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd22999978d907b3",
+  "active": "598c1473f2bc051b",
   "lastOpenFiles": [
+    "Home.md",
     "알고리즘 수시고사.md",
     "Pasted image 20231023152842.png",
     "컴퓨터 구조 수시고사.md",
-    "Home.md",
     "멘토링.md",
     "사용법.md",
     "Drawing Context.md",
