@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Dev-Index/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "AOR/Dev-Index/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "AOR/Dev-Index/JavaScript.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "598c1473f2bc051b",
   "lastOpenFiles": [
+    "Modal.md",
     "Home.md",
     "알고리즘 수시고사.md",
     "Pasted image 20231023152842.png",
@@ -167,7 +168,6 @@
     "사용법.md",
     "Drawing Context.md",
     "README.md",
-    "Modal.md",
     "Pasted image 20231016134451.png",
     "requestAnimationFrame.md",
     "블록체인 리뷰.md",
