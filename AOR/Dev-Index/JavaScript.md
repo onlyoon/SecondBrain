@@ -167,4 +167,12 @@
 ---
 ### Web Component
 ---
+### Canvas API
+- [requestAnimationFrame()](../Development/JavaScript/Canvas%20API/requestAnimationFrame().md)
+- [Drawing Context](../Development/JavaScript/Canvas%20API/Drawing%20Context.md) need to be fixed
+- [Save & Store](../Development/JavaScript/Canvas%20API/Save%20&%20Store.md)
+- [fillRect](../Development/JavaScript/Canvas%20API/fillRect.md) need to be fixed
+- [fillText](../Development/JavaScript/Canvas%20API/fillText.md)  need to be fixed
+---
+
 ### [README](../../README.md)로 돌아가기
