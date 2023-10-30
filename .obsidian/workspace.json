@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "41f957ac06be8da0",
+        "id": "c452f6c3717ad79b",
         "type": "tabs",
         "children": [
           {
-            "id": "6620bc9fa090cff1",
+            "id": "ef2a56a29035ddfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acaaed6c46efe97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1303e30cef7aa401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AOR/Development/JavaScript/Canvas API/fillRect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "348d29c40341b5bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
+                "file": "Home.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7d218d203ff5155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/JavaScript.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -194,8 +170,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "348d29c40341b5bd",
+  "active": "a7d218d203ff5155",
   "lastOpenFiles": [
+    "Home.md",
+    "Dynamic Programming.md",
     "AOR/Development/JavaScript/Canvas API/Save & Store.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Canvas API/requestAnimationFrame().md",
@@ -208,7 +186,6 @@
     "AOR/Dev-Index/React.md",
     "Pasted image 20231028020530.png",
     "Pasted image 20231023152842.png",
-    "Home.md",
     "멘토링.md",
     "사용법.md",
     "블록체인 리뷰.md",
@@ -233,7 +210,6 @@
     "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Box model.md",
     "AOR/Dev-Index/Computer Structure.md",
-    "무제 파일 1.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal",
     "Stuff/Image/AOR/Algorithm & DataStructure",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree",
