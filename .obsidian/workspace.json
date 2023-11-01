@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c452f6c3717ad79b",
+        "id": "0105c9b0f036ba9e",
         "type": "tabs",
         "children": [
           {
-            "id": "ef2a56a29035ddfd",
+            "id": "7ea5d495855a5b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a7d218d203ff5155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "Home.md"
               }
             }
           },
@@ -170,12 +157,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7d218d203ff5155",
+  "active": "7ea5d495855a5b3e",
   "lastOpenFiles": [
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "AOR/Development/JavaScript/Network Requests/HTTP.md",
+    "AOR/Development/JavaScript/Network Requests/JSON.md",
+    "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
+    "AOR/Development/JavaScript/Network Requests/fetch API.md",
+    "AOR/Development/JavaScript/JavaScript Library/Axios.md",
+    "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
+    "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
+    "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
+    "AOR/Dev-Index/Svelte.md",
     "Home.md",
     "Dynamic Programming.md",
     "AOR/Development/JavaScript/Canvas API/Save & Store.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Canvas API/requestAnimationFrame().md",
     "AOR/Development/JavaScript/Canvas API/fillRect.md",
     "AOR/Development/JavaScript/Canvas API/fillText.md",
@@ -192,24 +190,13 @@
     "컴퓨터 구조 수시고사.md",
     "알고리즘 수시고사.md",
     "Modal.md",
-    "README.md",
     "Pasted image 20231016134451.png",
-    "블록체인 멘토링 강의.md",
-    "AOR/Dev-Index/Blender.md",
-    "AOR/Development/Blender/Blender-Object.md",
     "Blog/Pasted image 20231021182247.png",
     "Blog/Pasted image 20231021184140.png",
     "Blog",
     "Blog/Pasted image 20231021184901.png",
     "Blog/Pasted image 20231021182838.png",
     "Blog/Pasted image 20231021182313.png",
-    "AOR/Development/CSS/Deep-Dive CSS/css-Pseudo.md",
-    "AOR/Dev-Index/CSS.md",
-    "AOR/Development/CSS/Positioning/css-position.md",
-    "Blog/나의 인턴 업무 - webView publishing(content-wrap, overflow-x,y).md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-Margin Collapsing.md",
-    "AOR/Development/CSS/Deep-Dive CSS/css-Box model.md",
-    "AOR/Dev-Index/Computer Structure.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal",
     "Stuff/Image/AOR/Algorithm & DataStructure",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree",
