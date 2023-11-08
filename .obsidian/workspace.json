@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec8b8faa7f80b48",
+        "id": "542468e940824b99",
         "type": "tabs",
         "children": [
           {
-            "id": "10f073bf96cce2f6",
+            "id": "db4178c858c5e178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "컴퓨터 구조 6장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "656582a26b8d46c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "명령어 종류.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "명령어 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "명령어 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "명령어 종류.md"
               }
             }
           },
@@ -157,15 +170,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "10f073bf96cce2f6",
+  "active": "656582a26b8d46c6",
   "lastOpenFiles": [
+    "컴퓨터 구조 6장.md",
+    "명령어 종류.md",
+    "AOR/Dev-Index/Computer Structure.md",
+    "명령어 구성요소.md",
+    "Home.md",
+    "Dynamic Programming.md",
+    "알고리즘.md",
+    "사용법.md",
+    "멘토링.md",
+    "Modal.md",
     "AOR/Dev-Index/Svelte.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Slot.md",
-    "Home.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
-    "알고리즘.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "컴퓨터 구조 6장.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Promise & Callback/async & await.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
@@ -177,19 +197,12 @@
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Factory Function.md",
     "AOR/Development/JavaScript/Number & String/js-Tagged Template.md",
-    "Dynamic Programming.md",
     "AOR/Development/JavaScript/Canvas API/Save & Store.md",
-    "AOR/Development/JavaScript/Canvas API/requestAnimationFrame().md",
-    "AOR/Development/JavaScript/Canvas API/fillRect.md",
-    "AOR/Development/JavaScript/Canvas API/fillText.md",
-    "AOR/Development/JavaScript/Canvas API/Drawing Context.md",
     "Pasted image 20231029134851.png",
     "Pasted image 20231029134823.png",
     "AOR/Development/JavaScript/Canvas API",
-    "AOR/Dev-Index/React.md",
     "Pasted image 20231028020530.png",
     "Pasted image 20231023152842.png",
-    "멘토링.md",
     "Pasted image 20231016134451.png",
     "Blog/Pasted image 20231021182247.png",
     "Blog/Pasted image 20231021184140.png",
