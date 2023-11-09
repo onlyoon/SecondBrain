@@ -25,9 +25,6 @@ chickenProduct.category = "FOOD";
 chickenProduct.printInfo();
 ```
 
->[!warning]
->>클래스는 실행할 코드 이전에 정의되어야 한다.
->
->>`this` 키워드는 항상 메서드를 참조한다.
+
 
 ### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03553c58e11172cd",
+        "id": "ae9f71f118e21cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "8f84be5f3a853fcf",
+            "id": "7c10af9a922a1aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dynamic Programming.md",
+            "file": "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dynamic Programming.md",
+            "file": "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dynamic Programming.md"
+            "file": "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md"
           }
         }
       }
@@ -142,8 +142,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f84be5f3a853fcf",
+  "active": "7c10af9a922a1aad",
   "lastOpenFiles": [
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
+    "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
+    "Dynamic Programming.md",
+    "README.md",
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
     "Home.md",
     "z-index.md",
     "AOR/Dev-Index/CSS.md",
@@ -151,15 +157,11 @@
     "CSS.md",
     "AOR/Dev-Index/Svelte.md",
     "XMLHttpRequest.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Event/Event Bubbling.md",
-    "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
     "Callback Function.md",
     "AOR/Development/CSS/css-BEM Method.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
     "AOR/Development/JavaScript/js-REST 연산자.md",
-    "README.md",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
     "AOR/Development/Algorith & DataStructure/Big-O 표기법.md",
     "Untitled",
     "AOR/Diary",
@@ -172,8 +174,6 @@
     "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
     "js-Event Loop.md",
     "AOR/Development/JavaScript/Control Structure/js-Falsy & Truthy value.md",
-    "AOR/Development/JavaScript/Basic Grammar/js-StringConcatenation.md",
-    "js-Garbage Collection & Memory Leak.md",
     "Resources/Development/Svelte/Components Deep Dive",
     "Stuff/Image/Resources/JavaScript/Pasted image 20230914122630.png",
     "Stuff/Image/Resources/JavaScript/Pasted image 20230914122414.png",
