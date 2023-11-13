@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f14a1e5cc7bf098c",
+        "id": "9295b4df5656ad1d",
         "type": "tabs",
         "children": [
           {
-            "id": "ba85ab385fb52630",
+            "id": "4b0e1d4704a54555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md"
+                "file": "Home.md"
               }
             }
           },
@@ -157,13 +157,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ba85ab385fb52630",
+  "active": "4b0e1d4704a54555",
   "lastOpenFiles": [
+    "Home.md",
     "AOR/Dev-Index/Svelte.md",
     "AOR/Development/Svelte/Base Syntax & Core Features/svelte-두 컴포넌트간 통신.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
-    "Home.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Event Transmission.md",
     "AOR/Development/Svelte/Base Syntax & Core Features/svelte-HTML content 출력.md",
     "AOR/Development/Computer Structure/제어장치/제어장치 원리.md",
