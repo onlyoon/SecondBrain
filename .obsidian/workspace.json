@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9295b4df5656ad1d",
+        "id": "12624f46ac8107cd",
         "type": "tabs",
         "children": [
           {
-            "id": "4b0e1d4704a54555",
+            "id": "0548f2bc88c61cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4b0e1d4704a54555",
+  "active": "0548f2bc88c61cbe",
   "lastOpenFiles": [
-    "Home.md",
     "AOR/Dev-Index/Svelte.md",
+    "Home.md",
     "AOR/Development/Svelte/Base Syntax & Core Features/svelte-두 컴포넌트간 통신.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",

@@ -111,7 +111,6 @@ createdContacts = [...createdContact,
   
 {:else}
     <p>Please start adding some contacts, we found none!</p>
-  
 {/each}
 ```
 
