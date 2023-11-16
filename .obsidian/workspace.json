@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12624f46ac8107cd",
+        "id": "aa7d53cea0002496",
         "type": "tabs",
         "children": [
           {
-            "id": "0548f2bc88c61cbe",
+            "id": "437d2321fbad15e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a941a71be459160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "무제 파일 1.md"
               }
             }
           },
@@ -157,10 +170,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0548f2bc88c61cbe",
+  "active": "1a941a71be459160",
   "lastOpenFiles": [
-    "AOR/Dev-Index/Svelte.md",
     "Home.md",
+    "무제 파일 1.md",
+    "Pasted image 20231114225931.png",
+    "Pasted image 20231114225459.png",
+    "Pasted image 20231114225107.png",
+    "Pasted image 20231114224915.png",
+    "Pasted image 20231114224823.png",
+    "Pasted image 20231114224757.png",
+    "무제 파일.md",
+    "Dynamic Programming.md",
+    "AOR/Dev-Index/Svelte.md",
     "AOR/Development/Svelte/Base Syntax & Core Features/svelte-두 컴포넌트간 통신.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
@@ -183,27 +205,9 @@
     "AOR/Development/Computer Structure/명령어",
     "AOR/Development/Computer Structure/제어장치",
     "컴퓨터 구조 6장.md",
-    "Dynamic Programming.md",
     "알고리즘.md",
     "사용법.md",
     "멘토링.md",
-    "Modal.md",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-Slot.md",
     "Pasted image 20231029134851.png",
     "Pasted image 20231029134823.png",
-    "AOR/Development/JavaScript/Canvas API",
-    "Pasted image 20231028020530.png",
-    "Pasted image 20231023152842.png",
-    "Pasted image 20231016134451.png",
-    "Blog/Pasted image 20231021182247.png",
-    "Blog/Pasted image 20231021184140.png",
-    "Blog",
-    "Blog/Pasted image 20231021184901.png",
-    "AOR/Development/Algorith & DataStructure/Tree Traversal",
-    "Stuff/Image/AOR/Algorithm & DataStructure",
-    "AOR/Development/Algorith & DataStructure/Binary Search Tree",
-    "AOR/Development/JavaScript/JavaScript Library",
-    "AOR/Development/CSS/Positioning",
-    "Stuff/Image/AOR/Computer Structure"
-  ]
-}
+    "AOR/Devel
