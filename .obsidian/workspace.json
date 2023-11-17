@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7d53cea0002496",
+        "id": "e587b8c51f88f58d",
         "type": "tabs",
         "children": [
           {
-            "id": "437d2321fbad15e0",
+            "id": "879a0308a6be9c01",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a941a71be459160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "Home.md"
               }
             }
           },
@@ -170,7 +157,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1a941a71be459160",
+  "active": "879a0308a6be9c01",
   "lastOpenFiles": [
     "Home.md",
     "무제 파일 1.md",
@@ -210,4 +197,13 @@
     "멘토링.md",
     "Pasted image 20231029134851.png",
     "Pasted image 20231029134823.png",
-    "AOR/Devel
+    "AOR/Development/JavaScript/Canvas API",
+    "Blog",
+    "AOR/Development/Algorith & DataStructure/Tree Traversal",
+    "Stuff/Image/AOR/Algorithm & DataStructure",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree",
+    "AOR/Development/JavaScript/JavaScript Library",
+    "AOR/Development/CSS/Positioning",
+    "Stuff/Image/AOR/Computer Structure"
+  ]
+}

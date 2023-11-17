@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a32cc87a8e85879b",
+        "id": "be9d533035111916",
         "type": "tabs",
         "children": [
           {
-            "id": "20b7b52d185145fa",
+            "id": "97094ea39f5710a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "AOR/Dev-Index/JavaScript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
+            "file": "AOR/Dev-Index/JavaScript.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "AOR/Dev-Index/JavaScript.md"
           }
         }
       }
@@ -142,15 +142,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "20b7b52d185145fa",
+  "active": "97094ea39f5710a6",
   "lastOpenFiles": [
+    "AOR/Development/JavaScript/Basic Grammar/js-Variable.md",
     "AOR/Dev-Index/JavaScript.md",
+    "Home.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
     "Dynamic Programming.md",
     "README.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "Home.md",
     "z-index.md",
     "AOR/Dev-Index/CSS.md",
     "css-position.md",
@@ -173,7 +174,6 @@
     "20230925_183631.jpg",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
     "js-Event Loop.md",
-    "AOR/Development/JavaScript/Control Structure/js-Falsy & Truthy value.md",
     "Resources/Development/Svelte/Components Deep Dive",
     "Stuff/Image/Resources/JavaScript/Pasted image 20230914122630.png",
     "Stuff/Image/Resources/JavaScript/Pasted image 20230914122414.png",
