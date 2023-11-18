@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e587b8c51f88f58d",
+        "id": "b52c55020204d6df",
         "type": "tabs",
         "children": [
           {
-            "id": "879a0308a6be9c01",
+            "id": "71c7d4b9343c4262",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,7 +157,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "879a0308a6be9c01",
+  "active": "71c7d4b9343c4262",
   "lastOpenFiles": [
     "Home.md",
     "무제 파일 1.md",
