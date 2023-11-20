@@ -1,4 +1,5 @@
 #index 
+[[../Development/React/react-Component]]
 ### Get Start
 ---
 ### JavaScript Refresher
