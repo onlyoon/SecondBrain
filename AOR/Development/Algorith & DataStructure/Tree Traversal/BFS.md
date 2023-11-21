@@ -3,7 +3,7 @@
 >[!note]
 >#### Breadth-first Search
 >
->>트리를 가로질러서 탐색하는 것
+>>트리를 ==가로==질러서 탐색하는 것
 
 ![](../../../../Stuff/Image/AOR/Algorithm%20&%20DataStructure/img%20(1).gif)
 
