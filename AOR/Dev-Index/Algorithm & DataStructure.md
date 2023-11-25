@@ -34,5 +34,5 @@
 - [DFS](../Development/Algorith%20&%20DataStructure/Tree%20Traversal/DFS.md)
 ---
 ### Graph
-- [Graph](../Development/Algorith%20&%20DataStructure/Graph.md)
+- [Graph](../Development/Algorith%20&%20DataStructure/Graph/Graph.md)
 ### [README](../../README.md)로 돌아가기

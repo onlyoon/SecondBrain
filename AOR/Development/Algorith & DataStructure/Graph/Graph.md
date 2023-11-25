@@ -18,4 +18,4 @@
 - 
 
 
-### [Algorithm & DataStructure](../../Dev-Index/Algorithm%20&%20DataStructure.md) Index로 돌아가기
+### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) Index로 돌아가기
