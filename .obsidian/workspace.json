@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "6b36a2f012812f7e",
   "lastOpenFiles": [
-    "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
     "README.md",
+    "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
+    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
     "AOR/Dev-Index/JavaScript.md",
     "js-Data Management.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 행렬.md",
