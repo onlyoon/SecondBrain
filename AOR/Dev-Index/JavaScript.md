@@ -30,7 +30,7 @@
 - [var](../Development/JavaScript/ES5%20vs.%20ES6/var.md)
 - [let & const](../Development/JavaScript/ES5%20vs.%20ES6/let%20&%20const.md)
 - [strict mode](../Development/JavaScript/ES5%20vs.%20ES6/strict%20mode.md)
-- [js-Data Management](js-Data%20Management) need to be fixed
+- [js-Data Management](../Development/JavaScript/js-Data%20Management.md) need to be fixed
 - [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
 - [WHATWG](../Development/JavaScript/ES5%20vs.%20ES6/WHATWG.md)
 - [Primitive value](../Development/JavaScript/ES5%20vs.%20ES6/Primitive%20value.md)

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fe01213388a0261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AOR/Development/JavaScript/js-Data Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0a275a4d9d7b95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시간표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "시간표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "시간표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "시간표.md"
               }
             }
           },
@@ -157,16 +182,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "92344f278b8de450",
+  "active": "b0a275a4d9d7b95d",
   "lastOpenFiles": [
+    "AOR/Development/JavaScript/js-Data Management.md",
+    "시간표.md",
+    "무제 파일 1.md",
+    "README.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "README.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
     "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
     "AOR/Dev-Index/JavaScript.md",
-    "js-Data Management.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 행렬.md",
     "AOR/Dev-Index/Svelte.md",
     "AOR/Development/Algorith & DataStructure/Big-O 표기법.md",
@@ -184,8 +211,6 @@
     "Project/School/Algorithm/Asymptotic Notation-복습.md",
     "Project/School/Project Directory Structure.md",
     "Project/Project List.md",
-    "Project/Career/Intern/업무일지 2023-09-12.md",
-    "Project/Marriage/Project Directory Structure.md",
     "Blog/Pasted image 20231021184901.png",
     "Blog/Pasted image 20231021184140.png",
     "Blog/Pasted image 20231021182838.png",
