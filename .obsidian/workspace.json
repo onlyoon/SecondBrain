@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "99571f3b8d62d49a",
+        "id": "ee69c9897d1fee68",
         "type": "tabs",
         "children": [
           {
-            "id": "6b36a2f012812f7e",
+            "id": "92344f278b8de450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b36a2f012812f7e",
+  "active": "92344f278b8de450",
   "lastOpenFiles": [
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
+    "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Search Tree.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
     "README.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
@@ -184,8 +186,6 @@
     "Project/Project List.md",
     "Project/Career/Intern/업무일지 2023-09-12.md",
     "Project/Marriage/Project Directory Structure.md",
-    "Project/Career/Project Directory Structure.md",
-    "Project/Marriage/References.md",
     "Blog/Pasted image 20231021184901.png",
     "Blog/Pasted image 20231021184140.png",
     "Blog/Pasted image 20231021182838.png",
