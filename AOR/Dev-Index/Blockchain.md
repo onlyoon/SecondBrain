@@ -2,7 +2,6 @@
 
 
 ### 합의 알고리즘
-- [[../Development/Blockchain/Paxos]]
-- [[../Development/Blockchain/Raft]]
-- [[../Development/Blockchain/PBFT]]
-- 
+- [Paxos](../Development/Blockchain/Paxos.md)
+- [Raft](../Development/Blockchain/Raft.md)
+- [PBFT](../Development/Blockchain/PBFT.md)

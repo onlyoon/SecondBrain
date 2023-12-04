@@ -13,7 +13,8 @@ $ParentNode[key] >= LeftChildNode[key]$
 - 부모 노드의 오른쪽에 있는 노드들은 항상 부모 노드보다 크다
 $ParentNode[key] <= RightChildNode[key]$
 #### 삽입
->시간복잡도 O(log n)
+>일반적인 경우의 시간복잡도 O(log n)
+>트리가 한 쪽으로  치우치는 경우 O(n)
 
 - 새로운 노드 삽입 시
 	- 루트 노드가 없을 경우

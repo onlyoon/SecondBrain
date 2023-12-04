@@ -21,7 +21,7 @@
 - [Divide & Conquer](../Development/Algorith%20&%20DataStructure/문제해결패턴/Divide%20&%20Conquer.md)
 ---
 ### 검색 알고리즘
-
+- Binary Search
 ---
 ### Binary Search Tree
 - [Tree](../Development/Algorith%20&%20DataStructure/Binary%20Search%20Tree/Tree.md)

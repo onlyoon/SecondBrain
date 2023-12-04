@@ -30,22 +30,22 @@
 - [var](../Development/JavaScript/ES5%20vs.%20ES6/var.md)
 - [let & const](../Development/JavaScript/ES5%20vs.%20ES6/let%20&%20const.md)
 - [strict mode](../Development/JavaScript/ES5%20vs.%20ES6/strict%20mode.md)
-- [js-Data Management](../Development/JavaScript/js-Data%20Management.md) need to be fixed
+- [js-Data Management](../Development/JavaScript/js-Data%20Management.md)
 - [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
 - [WHATWG](../Development/JavaScript/ES5%20vs.%20ES6/WHATWG.md)
 - [Primitive value](../Development/JavaScript/ES5%20vs.%20ES6/Primitive%20value.md)
-- [js-Reference value](js-Reference%20value) need to be fixed
+- [js-Reference value](js-Reference%20value)
 - [js-Garbage Collection & Memory Leak](../Development/JavaScript/ES5%20vs.%20ES6/js-Garbage%20Collection%20&%20Memory%20Leak.md)
 ---
 ### Advanced Function
-- [js-Parameter vs. Argument](js-Parameter%20vs.%20Argument) need to be fixed
-- [js-Method](js-Method) need to be fixed
+- [js-Parameter vs. Argument](js-Parameter%20vs.%20Argument)
+- [js-Method](js-Method)
 - [js-함수 선언 & 표현식](js-함수%20선언%20&%20표현식) need to be fixed
-- [js-Anonymous function](js-Anonymous%20function) need to be fixed
+- [js-Anonymous function](js-Anonymous%20function)
 - [js-Arrow Function Expression](js-Arrow%20Function%20Expression) need to be fixed
 - [js-Parameter with default value](js-Parameter%20with%20default%20value) need to be fixed
 - [js-REST 연산자](../Development/JavaScript/Advanced%20Function/js-REST%20연산자.md)
-- [js-고차함수](js-고차함수) need to be fixed
+- [js-고차함수](js-고차함수)
 - [Callback Function](../Development/JavaScript/Advanced%20Function/Callback%20Function.md)
 - [js-Bind Method](js-Bind%20Method) need to be fixed
 ---
