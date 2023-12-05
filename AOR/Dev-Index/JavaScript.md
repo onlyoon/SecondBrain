@@ -30,66 +30,66 @@
 - [var](../Development/JavaScript/ES5%20vs.%20ES6/var.md)
 - [let & const](../Development/JavaScript/ES5%20vs.%20ES6/let%20&%20const.md)
 - [strict mode](../Development/JavaScript/ES5%20vs.%20ES6/strict%20mode.md)
-- [js-Data Management](../Development/JavaScript/js-Data%20Management.md)
+- [js-Data Management](../Development/JavaScript/ES5%20vs.%20ES6/js-Data%20Management.md)
 - [Event Loop](../Development/JavaScript/ES5%20vs.%20ES6/Event%20Loop.md)
 - [WHATWG](../Development/JavaScript/ES5%20vs.%20ES6/WHATWG.md)
 - [Primitive value](../Development/JavaScript/ES5%20vs.%20ES6/Primitive%20value.md)
-- [js-Reference value](js-Reference%20value)
+- [js-Reference value](../Development/JavaScript/ES5%20vs.%20ES6/js-Reference%20value.md)
 - [js-Garbage Collection & Memory Leak](../Development/JavaScript/ES5%20vs.%20ES6/js-Garbage%20Collection%20&%20Memory%20Leak.md)
 ---
 ### Advanced Function
-- [js-Parameter vs. Argument](js-Parameter%20vs.%20Argument)
-- [js-Method](js-Method)
+- [js-Parameter vs. Argument](../Development/JavaScript/Advanced%20Function/js-Parameter%20vs.%20Argument.md)
+- [js-Method](../Development/JavaScript/Advanced%20Function/js-Method.md)
 - [js-함수 선언 & 표현식](js-함수%20선언%20&%20표현식) need to be fixed
-- [js-Anonymous function](js-Anonymous%20function)
+- [js-Anonymous function](../Development/JavaScript/Advanced%20Function/js-Anonymous%20function.md)
 - [js-Arrow Function Expression](js-Arrow%20Function%20Expression) need to be fixed
 - [js-Parameter with default value](js-Parameter%20with%20default%20value) need to be fixed
 - [js-REST 연산자](../Development/JavaScript/Advanced%20Function/js-REST%20연산자.md)
-- [js-고차함수](js-고차함수)
+- [js-고차함수](../Development/JavaScript/Advanced%20Function/js-고차함수.md)
 - [Callback Function](../Development/JavaScript/Advanced%20Function/Callback%20Function.md)
 - [js-Bind Method](js-Bind%20Method) need to be fixed
 ---
 ### DOM
 - [DOM](../Development/JavaScript/DOM/DOM.md)
-- [[js-Element Node & Text Node]]
-- [[js-Node]]
-- [[js-Element]]
+- js-Element Node & Text Node
+- js-Node
+- js-Element
 - [js-Query Method](../Development/JavaScript/DOM/js-Query%20Method.md)
 - [console.dir()](../Development/JavaScript/DOM/console.dir().md)
-- [[js-Attribute vs. Property]]
+- js-Attribute vs. Property
 - [DOM Traversing](../Development/JavaScript/DOM/DOM%20Traversing.md)
 ---
 ### Advanced Array & Repeat
-- [[js-Iterable]]
-- [[js-Iterable Data Structure]]
-- [[js-Set() Iterable]]
-- [[js-Map() Iterable]]
-- [[js-WeakSet() & WeakMap() Iterable]]
-- [[js-유사 배열 객체]]
-- [[js-배열 생성 방법]]
-- [[js.-배열 메서드]]
+- js-Iterable
+- js-Iterable Data Structure
+- js-Set() Iterable
+- js-Map() Iterable
+- js-WeakSet() & WeakMap() Iterable
+- js-유사 배열 객체
+- js-배열 생성 방법
+- js.-배열 메서드
 - [js-Spread 구문](../Development/JavaScript/Advanced%20Array%20&%20Repeat/js-Spread%20구문.md)
-- [[js-배열 구조 분해]]
+- js-배열 구조 분해
 ---
 ### Advanced Object
-- [[js-객체]]
-- [[js-객체 특수 키 이름 & 대괄호 접근]]
-- [[js-객체 Property 접근 & 확인]]
-- [[js-객체 프로퍼티 값 동적 접근 및 활용]]
-- [[js-객체 체이닝]]
-- [[js-객체 전개 연산자]]
-- [[js-객체 구조 분해]]
-- [[js-This 키워드]]
-- [[js-getter & setter]]
+- js-객체
+- js-객체 특수 키 이름 & 대괄호 접근
+- js-객체 Property 접근 & 확인
+- js-객체 프로퍼티 값 동적 접근 및 활용
+- js-객체 체이닝
+- js-객체 전개 연산자
+- js-객체 구조 분해
+- js-This 키워드
+- js-getter & setter
 ---
 ### Object Oriental Programming
 - [js-Object Oriental Programming](../Development/JavaScript/Object%20Oriental%20Programming/js-Object%20Oriental%20Programming.md)
 - [js-Class](../Development/JavaScript/Object%20Oriental%20Programming/js-Class.md)
 - [js-Constructor](../Development/JavaScript/Object%20Oriental%20Programming/js-Constructor.md)
 - [js-new](../Development/JavaScript/Object%20Oriental%20Programming/js-new.md)
-- [[js-EventListener in Class]]
-- [[js-Inheritance]]
-- [[js-Overide]]
+- js-EventListener in Class
+- js-Inheritance
+- js-Overide
 ---
 ### Constructor & Prototype
 ---

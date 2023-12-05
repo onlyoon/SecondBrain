@@ -44,7 +44,7 @@ class BinarySearchTree {
   // 너비 우선 탐색 메서드
   BFS() {
     let data = [];
-    let queue = [];
+    let queue = []; 
     let node = this.root;
     queue.push(node);
     while(queue.length) {
