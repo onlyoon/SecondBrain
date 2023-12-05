@@ -8,4 +8,4 @@
 - `키-값` 쌍을 저장하는데 사용된다.
 - 해시 테이블의 키는 순서를 가리지 않는다.
 - 탐색, 삽입, 제거에 빠른 속도가 장점이다.
-### [JavaScript](../../../Dev-Index/JavaScript.md) Index로 돌아가기
+### [Algorithm Definition](Algorithm%20Definition.md) Index로 돌아가기

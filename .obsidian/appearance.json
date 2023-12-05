@@ -7,5 +7,6 @@
     "dashboard-readlinelength"
   ],
   "theme": "moonstone",
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "translucency": false
 }
