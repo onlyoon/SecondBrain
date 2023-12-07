@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "알고리즘 기말고사 정리 파일.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50499725341797
+    "width": 244.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "알고리즘 기말고사 정리 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "알고리즘 기말고사 정리 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "알고리즘 기말고사 정리 파일.md"
               }
             }
           },
@@ -158,16 +159,68 @@
       "homepage:Open homepage": false
     }
   },
+  "floating": {
+    "id": "6219023c5ebda933",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4ac1a1477a96f568",
+        "type": "window",
+        "children": [
+          {
+            "id": "83afa9c66dc1cacc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "64139a9466f4189c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "알고리즘 기말고사.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
   "active": "397f0e50ea6ceafd",
   "lastOpenFiles": [
-    "README.md",
+    "알고리즘 기말고사.md",
+    "알고리즘 기말고사 정리 파일.md",
+    "AOR/Dev-Index/Blockchain.md",
+    "AOR/Development/Blockchain/Ghost Protocol.md",
+    "Pasted image 20231207153615.png",
+    "AOR/Development/Blockchain/Raft.md",
     "블록체인 기말고사.md",
+    "AOR/Development/Blockchain/PBFT.md",
+    "AOR/Development/Blockchain/Paxos.md",
+    "AOR/Development/Blockchain/EVM.md",
+    "AOR/Development/Blockchain/Smart Contract.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "Pasted image 20231207151610.png",
+    "Stuff/Image/AOR/Blockchain/Pasted image 20231207151353.png",
+    "Pasted image 20231207150641.png",
+    "2023-12-07.md",
+    "알고리즘.md",
+    "README.md",
     "컴퓨터 구조.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "알고리즘 기말고사.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-new.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Control Structure/js-Falsy & Truthy value.md",
     "AOR/Development/JavaScript/Control Structure/js-if statement.md",
     "AOR/Development/JavaScript/DOM/DOM.md",
@@ -176,28 +229,14 @@
     "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
     "AOR/Development/Algorith & DataStructure/Binary Search Tree/Binary Trees.md",
     "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
-    "AOR/Development/Algorith & DataStructure/문제해결접근법/문제 파악 및 이해.md",
-    "AOR/Development/JavaScript/Function Deep Dive/js-Recursion.md",
-    "AOR/Development/Algorith & DataStructure/누적합.md",
     "Pasted image 20231205194804.png",
     "Stuff/Image/AOR/Algorithm & DataStructure/prefix sum.gif",
     "Stuff/Image/AOR/Algorithm & DataStructure/prefix sum.gif.crdownload",
-    "AOR/Development/Algorith & DataStructure/문제해결패턴/Multiple Pointers.md",
-    "AOR/Development/Algorith & DataStructure/Big-O 표기법.md",
-    "AOR/Development/Algorith & DataStructure/Algorithm Definition.md",
-    "AOR/Development/Algorith & DataStructure/에라스토네스의 체.md",
-    "js-함수 선언 & 표현식.md",
-    "알고리즘.md",
-    "AOR/Development/Algorith & DataStructure/Hash Table.md",
     "AOR/Development/Algorith & DataStructure/Graph",
     "Blog/Pasted image 20231021184901.png",
     "Blog/Pasted image 20231021184140.png",
     "Blog/Pasted image 20231021182838.png",
     "Blog/Pasted image 20231021182313.png",
-    "Blog/Pasted image 20231021182247.png",
-    "Stuff/Image/AOR/Computer Structure/Pasted image 20231108185801.png",
-    "Stuff/Image/AOR/Computer Structure/Pasted image 20231108185736.png",
-    "Pasted image 20231028020530.png",
     "AOR/Development/Algorith & DataStructure/Sort",
     "AOR/Development/Algorith & DataStructure/Dynamic Programming",
     "AOR/Development/Computer Structure/명령어",
