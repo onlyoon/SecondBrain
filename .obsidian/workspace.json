@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43e06bf8991b3635",
+        "id": "429863e3fd1994f9",
         "type": "tabs",
         "children": [
           {
-            "id": "68c97b5d01639d10",
+            "id": "397f0e50ea6ceafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블록체인 기말고사.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블록체인 기말고사.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블록체인 기말고사.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블록체인 기말고사.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,11 +158,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "68c97b5d01639d10",
+  "active": "397f0e50ea6ceafd",
   "lastOpenFiles": [
     "README.md",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
     "블록체인 기말고사.md",
+    "컴퓨터 구조.md",
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
     "알고리즘 기말고사.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-new.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Constructor.md",
@@ -188,7 +189,6 @@
     "js-함수 선언 & 표현식.md",
     "알고리즘.md",
     "AOR/Development/Algorith & DataStructure/Hash Table.md",
-    "AOR/Development/Algorith & DataStructure/Dynamic Programming/Dynamic Programming.md",
     "AOR/Development/Algorith & DataStructure/Graph",
     "Blog/Pasted image 20231021184901.png",
     "Blog/Pasted image 20231021184140.png",
