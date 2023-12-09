@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "블록체인 기말고사.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "블록체인 기말고사.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
+            "file": "블록체인 기말고사.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "블록체인 기말고사.md"
           }
         }
       }
@@ -142,15 +143,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3673f0f1fc904ff1",
+  "active": "0ade6e9942a4d5dd",
   "lastOpenFiles": [
-    "AOR/Development/JavaScript/Basic Grammar/js-Variable.md",
+    "AOR/Development/JavaScript/Function Deep Dive/js-Side Effect.md",
     "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Network Requests/fetch API.md",
+    "AOR/Development/JavaScript/Network Requests/FormData.md",
+    "AOR/Development/JavaScript/Basic Grammar/StringConcatenation.md",
+    "README.md",
+    "AOR/Development/JavaScript/Basic Grammar/js-Variable.md",
     "Home.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
     "Dynamic Programming.md",
-    "README.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
     "z-index.md",
     "AOR/Dev-Index/CSS.md",
@@ -169,11 +174,7 @@
     "AOR/Diary/2023 09 28 일기.md",
     "무제 파일.md",
     "Pasted image 20230925191342.png",
-    "Stuff/Image/Resources/JavaScript/js-Built-in.md",
-    "Stuff/Image/Resources/JavaScript/js-IIFE.md",
     "20230925_183631.jpg",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
-    "js-Event Loop.md",
     "Resources/Development/Svelte/Components Deep Dive",
     "Stuff/Image/Resources/JavaScript/Pasted image 20230914122630.png",
     "Stuff/Image/Resources/JavaScript/Pasted image 20230914122414.png",
