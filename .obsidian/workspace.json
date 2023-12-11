@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b801df10fa082ff1",
+        "id": "e763e4f17f1ef08f",
         "type": "tabs",
         "children": [
           {
-            "id": "9206c8a211b1e23c",
+            "id": "a35ae780f4a651ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 기말고사 정리 파일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d181fdf3fb1b62b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘 기말고사.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 기말고사.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 기말고사.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 기말고사.md"
+                "file": "README.md"
               }
             }
           },
@@ -173,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d181fdf3fb1b62b3",
+  "active": "a35ae780f4a651ae",
   "lastOpenFiles": [
     "알고리즘 기말고사 정리 파일.md",
     "README.md",
