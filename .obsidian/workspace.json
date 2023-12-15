@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md"
               }
             }
           },
@@ -161,6 +161,9 @@
   },
   "active": "c5cedf6f77bf3322",
   "lastOpenFiles": [
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
+    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
+    "README.md",
     "Pasted image 20231213092752.png",
     "Pasted image 20231213092740.png",
     "Pasted image 20231213010011.png",
@@ -171,7 +174,6 @@
     "Pasted image 20231213005552.png",
     "Pasted image 20231213005458.png",
     "Pasted image 20231213005419.png",
-    "Pasted image 20231213005250.png",
     "컴퓨터 구조.md",
     "4.md",
     "js-함수 선언 & 표현식.md",
@@ -181,12 +183,9 @@
     "2023-12-07.md",
     "알고리즘.md",
     "블록체인 기말고사.md",
-    "README.md",
     "알고리즘 기말고사 정리 파일.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 행렬.md",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
-    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
     "AOR/Development/Algorith & DataStructure/Dynamic Programming/Dynamic Programming.md",
     "AOR/Dev-Index/Blockchain.md",
     "AOR/Development/Blockchain/Ghost Protocol.md",
