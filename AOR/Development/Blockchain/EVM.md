@@ -23,7 +23,7 @@
 	- 명령어 실행 중 데이터 저장 & 함수에 인수 전달
 - Storage
 	- Smart Contract 전역 변수 저장
-![](../../../Pasted%20image%2020231207151610.png)
+![](../../../Stuff/Image/AOR/Blockchain/Pasted%20image%2020231207151610.png)
 >[!info]
 >>EVM은 다양한 프로그래밍 언어로 구현되며 자바스크립트와 연관된 구현된 EVM은 [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-monorepo)을 참고하라.
 

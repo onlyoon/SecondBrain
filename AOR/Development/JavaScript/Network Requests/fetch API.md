@@ -39,7 +39,7 @@ const sendHttpRequest = (url, method, data) => {
         if (response.status >= 200 && response.status < 300) {
             return response.json();
         } else {
-	        // 오류 데이터에 엑세스하기 위해 && 응답 본문에 엑세스하기 위ㅎ 사용하는 방법
+	        // 오류 데이터에 엑세스하기 위해 && 응답 본문에 엑세스하기 위해 사용하는 방법
             return response.json().then(errData => {
                 console.log(errData);
                 throw new Error('Something went wrong - server-side.');

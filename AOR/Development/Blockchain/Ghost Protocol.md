@@ -13,6 +13,6 @@
 - 길이가 두번째로 긴 [2D]로 분기되는 시작하는 경로는 BroadCast된 모든 체인의 수신에서 [2C]블록으로부터 다양한 체인이 파생된다는 것을 알았으니, [2C]분기점을 따른다.
 - [2C]분기점에서 블록 높이가 가장 높은 경로인 [0] -> [1B] -> [2C] -> [3D] -> [4B]가 메인 체인이 된다.
 
-![](../../../Pasted%20image%2020231207153615.png)
+![](../../../Stuff/Image/AOR/Blockchain/Pasted%20image%2020231207153615.png)
 
 ### [Blockchain](../../Dev-Index/Blockchain.md) Index로 돌아가기
