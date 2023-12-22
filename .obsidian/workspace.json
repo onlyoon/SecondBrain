@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Development/JavaScript/JavaScript Library/js-Third-Party Library.md"
               }
             }
           },
@@ -160,12 +160,13 @@
   },
   "active": "de00b786cf6c19d1",
   "lastOpenFiles": [
+    "AOR/Dev-Index/JavaScript.md",
+    "README.md",
     "AOR/Development/Blockchain/Ghost Protocol.md",
     "AOR/Dev-Index/Blockchain.md",
     "AOR/Development/Blockchain/EVM.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
-    "README.md",
     "시간표.md",
     "멘토링.md",
     "4.md",
@@ -182,7 +183,6 @@
     "Pasted image 20231213005627.png",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
     "AOR/Dev-Index/Svelte.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Network Requests/fetch API.md",
     "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
     "AOR/Development/JavaScript/JavaScript Library/Axios.md",
