@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc76417aadc90d8",
+        "id": "310838acff83efbd",
         "type": "tabs",
         "children": [
           {
-            "id": "d17e6f4de4efa792",
+            "id": "7b6085ba54524144",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,26 +151,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "homepage:Open homepage": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d17e6f4de4efa792",
+  "active": "7b6085ba54524144",
   "lastOpenFiles": [
     "AOR/Dev-Index/Svelte.md",
+    "Svelte 프로젝트 하면서 알게 된 것들.md",
+    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
+    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Inline Function.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-Event Transmission.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-Custom Event.md",
+    "README.md",
+    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-HTML content 출력.md",
+    "AOR/Dev-Index/React.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Network Requests/HTTP.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Slot.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-let 지시.md",
     "AOR/Development/Svelte/Binding & Form/svelte-양방향 바인딩.md",
     "AOR/Development/Svelte/Binding & Form/svelte-input 태그 바인딩.md",
-    "README.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
     "AOR/Development/Svelte/Base Syntax & Core Features/svelte-두 컴포넌트간 통신.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/Blockchain/Ghost Protocol.md",
     "AOR/Dev-Index/Blockchain.md",
     "AOR/Development/Blockchain/EVM.md",
@@ -181,7 +190,6 @@
     "4.md",
     "2023-12-07.md",
     "알고리즘 기말고사.md",
-    "js-함수 선언 & 표현식.md",
     "Pasted image 20231213005250.png",
     "Pasted image 20231213092752.png",
     "Pasted image 20231213092740.png",
@@ -190,14 +198,6 @@
     "Pasted image 20231213005856.png",
     "Pasted image 20231213005658.png",
     "Pasted image 20231213005627.png",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
-    "AOR/Development/JavaScript/Network Requests/fetch API.md",
-    "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
-    "AOR/Development/JavaScript/JavaScript Library/Axios.md",
-    "AOR/Development/Svelte/Conditionals & Loops/svelte-블록문.md",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
-    "컴퓨터 구조.md",
     "Stuff/Image/AOR/Algorithm & DataStructure/prefix sum.gif.crdownload",
     "AOR/Development/Algorith & DataStructure/Graph",
     "AOR/Development/Algorith & DataStructure/Sort",
