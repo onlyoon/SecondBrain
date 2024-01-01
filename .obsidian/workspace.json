@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Development/CSS/Positioning/css-position.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/CSS/Positioning/css-position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Development/CSS/Positioning/css-position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Development/CSS/Positioning/css-position.md"
               }
             }
           },
@@ -162,12 +162,18 @@
   },
   "active": "fc1c2c165704524a",
   "lastOpenFiles": [
+    "AOR/Dev-Index/CSS.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
+    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
+    "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
+    "README.md",
     "Local Storage.md",
     "Browser Storage.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
     "AOR/Dev-Index/Svelte.md",
-    "README.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
@@ -182,12 +188,6 @@
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Slot.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-let 지시.md",
-    "AOR/Development/Svelte/Binding & Form/svelte-양방향 바인딩.md",
-    "AOR/Development/Svelte/Binding & Form/svelte-input 태그 바인딩.md",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-Spread Property.md",
-    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-두 컴포넌트간 통신.md",
-    "AOR/Development/Blockchain/Ghost Protocol.md",
-    "AOR/Dev-Index/Blockchain.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
     "Pasted image 20231213005250.png",
