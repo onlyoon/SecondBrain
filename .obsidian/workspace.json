@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Development/CSS/Positioning/css-position.md",
+                "file": "Browser Storage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Development/CSS/Positioning/css-position.md",
+                "file": "Browser Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Development/CSS/Positioning/css-position.md",
+                "file": "Browser Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Development/CSS/Positioning/css-position.md"
+                "file": "Browser Storage.md"
               }
             }
           },
@@ -162,15 +162,18 @@
   },
   "active": "fc1c2c165704524a",
   "lastOpenFiles": [
+    "Local Storage.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
+    "AOR/Dev-Index/React.md",
+    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
+    "AOR/Development/CSS/Positioning/css-position.md",
     "AOR/Dev-Index/CSS.md",
     "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
     "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
-    "AOR/Dev-Index/JavaScript.md",
-    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "README.md",
-    "Local Storage.md",
     "Browser Storage.md",
     "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
     "AOR/Dev-Index/Svelte.md",
@@ -183,11 +186,8 @@
     "AOR/Development/Svelte/Components Deep Dive/svelte-Event Transmission.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Custom Event.md",
     "AOR/Development/Svelte/Base Syntax & Core Features/svelte-HTML content 출력.md",
-    "AOR/Dev-Index/React.md",
     "AOR/Development/JavaScript/Network Requests/HTTP.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Slot.md",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-let 지시.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
     "Pasted image 20231213005250.png",
