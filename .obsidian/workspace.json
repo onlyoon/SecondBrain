@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "면접.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50499725341797
+    "width": 244.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "면접.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "면접.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "면접.md"
               }
             }
           },
@@ -162,13 +163,13 @@
   },
   "active": "95f13199cc87272b",
   "lastOpenFiles": [
+    "README.md",
     "멘토링.md",
     "js-함수 선언 & 표현식.md",
     "시간표.md",
     "Browser Storage.md",
     "알고리즘 기말고사.md",
     "면접.md",
-    "README.md",
     "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Dev-Index/JavaScript.md",
