@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cada5d2f2f12a5",
+        "id": "d9f3f6ba3cf645c1",
         "type": "tabs",
         "children": [
           {
-            "id": "95f13199cc87272b",
+            "id": "91771ae143c804a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,10 +161,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "95f13199cc87272b",
+  "active": "91771ae143c804a9",
   "lastOpenFiles": [
-    "README.md",
     "멘토링.md",
+    "README.md",
     "js-함수 선언 & 표현식.md",
     "시간표.md",
     "Browser Storage.md",
