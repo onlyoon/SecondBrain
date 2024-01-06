@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d53d8e5e44132b9f",
+        "id": "b5b257f19db77b1e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b3266848c4c31f3",
+            "id": "446945216d344110",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,13 +160,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3b3266848c4c31f3",
+  "active": "446945216d344110",
   "lastOpenFiles": [
+    "AOR/Dev-Index/Svelte.md",
+    "README.md",
     "AOR/Development/JavaScript/About JavaScript/JavaScript Definition.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
     "면접.md",
-    "README.md",
     "멘토링.md",
     "js-함수 선언 & 표현식.md",
     "시간표.md",
@@ -184,7 +185,6 @@
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Promise & Callback/js-Async.md",
     "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
-    "AOR/Dev-Index/Svelte.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
