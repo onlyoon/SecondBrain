@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25336731e7856fc6",
+        "id": "454f08346457847f",
         "type": "tabs",
         "children": [
           {
-            "id": "c24112739089ef9f",
+            "id": "125eb625b856357e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,7 +161,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c24112739089ef9f",
+  "active": "125eb625b856357e",
   "lastOpenFiles": [
     "AOR/Dev-Index/Blender.md",
     "AOR/Development/Blender/Blender-Object.md",
