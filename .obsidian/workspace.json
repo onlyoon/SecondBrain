@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b638482b2721cab",
+        "id": "588749f053c133fc",
         "type": "tabs",
         "children": [
           {
-            "id": "9ceb875a5053f633",
+            "id": "a5150d7923c22ad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Dev-Index/CSS.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Dev-Index/CSS.md"
               }
             }
           },
@@ -161,34 +161,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9ceb875a5053f633",
+  "active": "a5150d7923c22ad7",
   "lastOpenFiles": [
+    "AOR/Development/CSS/Selectors & CSS Features/css-web browser rendering engine.md",
+    "AOR/Dev-Index/CSS.md",
+    "AOR/Development/CSS/Selectors & CSS Features/css-webkit.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-Shorthand Properties.md",
+    "AOR/Development/CSS/Deep-Dive CSS/css-Pseudo.md",
+    "AOR/Development/CSS/CSS Basics/css-Combinator.md",
+    "AOR/Development/CSS/CSS Basics/css-Inherit.md",
+    "README.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
+    "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
+    "AOR/Development/JavaScript/Network Requests/FormData.md",
+    "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
     "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
-    "README.md",
     "AOR/Dev-Index/Svelte.md",
     "AOR/Dev-Index/Blender.md",
     "AOR/Development/Blender/Blender-Object.md",
     "AOR/Development/Blender/Blender-View.md",
     "AOR/Development/JavaScript/About JavaScript/JavaScript Definition.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
     "면접.md",
     "멘토링.md",
     "js-함수 선언 & 표현식.md",
     "시간표.md",
-    "Browser Storage.md",
-    "알고리즘 기말고사.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
-    "Local Storage.md",
-    "AOR/Dev-Index/React.md",
-    "AOR/Development/JavaScript/Promise & Callback/async & await.md",
-    "AOR/Development/CSS/Positioning/css-position.md",
-    "AOR/Dev-Index/CSS.md",
-    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
-    "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
-    "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
     "Pasted image 20231213005250.png",
