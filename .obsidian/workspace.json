@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "588749f053c133fc",
+        "id": "749a5875d6f04572",
         "type": "tabs",
         "children": [
           {
-            "id": "a5150d7923c22ad7",
+            "id": "5c924840f615635e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AOR/Dev-Index/CSS.md"
+                "file": "README.md"
               }
             }
           },
@@ -161,7 +161,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a5150d7923c22ad7",
+  "active": "5c924840f615635e",
   "lastOpenFiles": [
     "AOR/Development/CSS/Selectors & CSS Features/css-web browser rendering engine.md",
     "AOR/Dev-Index/CSS.md",
