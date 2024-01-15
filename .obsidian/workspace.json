@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "749a5875d6f04572",
+        "id": "a5798e86bad0d897",
         "type": "tabs",
         "children": [
           {
-            "id": "5c924840f615635e",
+            "id": "5cf206530f63d82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50499725341797,
-    "collapsed": true
+    "width": 244.50499725341797
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -161,8 +160,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c924840f615635e",
+  "active": "5cf206530f63d82d",
   "lastOpenFiles": [
+    "AOR/Development/Blender/Blender-Viewport Shading.md",
+    "AOR/Dev-Index/Blender.md",
+    "AOR/Development/Blender/Blender-Object.md",
+    "AOR/Development/Blender/Blender-View.md",
+    "AOR/Dev-Index/Svelte.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-Component Life Cycle.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-Event Transmission.md",
+    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Inline Function.md",
+    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-let 지시.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-Custom Event.md",
+    "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
+    "README.md",
     "AOR/Development/CSS/Selectors & CSS Features/css-web browser rendering engine.md",
     "AOR/Dev-Index/CSS.md",
     "AOR/Development/CSS/Selectors & CSS Features/css-webkit.md",
@@ -170,25 +182,12 @@
     "AOR/Development/CSS/Deep-Dive CSS/css-Pseudo.md",
     "AOR/Development/CSS/CSS Basics/css-Combinator.md",
     "AOR/Development/CSS/CSS Basics/css-Inherit.md",
-    "README.md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
     "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
     "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
     "AOR/Development/JavaScript/Network Requests/FormData.md",
     "AOR/Development/JavaScript/Network Requests/XMLHttpRequest.md",
-    "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "AOR/Development/Algorith & DataStructure/Tree Traversal/DFS.md",
-    "AOR/Dev-Index/Svelte.md",
-    "AOR/Dev-Index/Blender.md",
-    "AOR/Development/Blender/Blender-Object.md",
-    "AOR/Development/Blender/Blender-View.md",
-    "AOR/Development/JavaScript/About JavaScript/JavaScript Definition.md",
-    "AOR/Development/JavaScript/About JavaScript/동적 약형.md",
-    "면접.md",
-    "멘토링.md",
-    "js-함수 선언 & 표현식.md",
-    "시간표.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
     "Pasted image 20231213005250.png",
