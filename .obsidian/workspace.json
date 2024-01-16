@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Dev-Index/Svelte.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/Svelte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/Svelte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Dev-Index/Svelte.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "5cf206530f63d82d",
   "lastOpenFiles": [
+    "README.md",
     "AOR/Development/Blender/Blender-Viewport Shading.md",
     "AOR/Dev-Index/Blender.md",
     "AOR/Development/Blender/Blender-Object.md",
@@ -174,7 +175,6 @@
     "AOR/Development/Svelte/Components Deep Dive/svelte-let 지시.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Custom Event.md",
     "AOR/Development/Svelte/Components Deep Dive/svelte-Component Types.md",
-    "README.md",
     "AOR/Development/CSS/Selectors & CSS Features/css-web browser rendering engine.md",
     "AOR/Dev-Index/CSS.md",
     "AOR/Development/CSS/Selectors & CSS Features/css-webkit.md",
