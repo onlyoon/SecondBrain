@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a76a11874fd3d6d",
+        "id": "cceeab1f697a7720",
         "type": "tabs",
         "children": [
           {
-            "id": "faa4e306af44b5ce",
+            "id": "4e70193c1a396bc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50499725341797
+    "width": 244.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -160,8 +161,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "faa4e306af44b5ce",
+  "active": "4e70193c1a396bc0",
   "lastOpenFiles": [
+    "AOR/Dev-Index/Algorithm & DataStructure.md",
+    "AOR/Development/Algorith & DataStructure/Graph/Graph순회.md",
+    "AOR/Development/Algorith & DataStructure/Graph/인접 행렬.md",
+    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
+    "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
+    "2024-01-31.md",
     "README.md",
     "2024-01-16.md",
     "tweened.md",
@@ -182,12 +189,6 @@
     "AOR/Development/CSS/Selectors & CSS Features/css-webkit.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Shorthand Properties.md",
     "AOR/Development/CSS/Deep-Dive CSS/css-Pseudo.md",
-    "AOR/Development/CSS/CSS Basics/css-Combinator.md",
-    "AOR/Development/CSS/CSS Basics/css-Inherit.md",
-    "AOR/Dev-Index/JavaScript.md",
-    "AOR/Development/JavaScript/Network Requests/웹 사이트 작동 방식.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Lexical Environment.md",
-    "AOR/Development/JavaScript/Function Deep Dive/Environment Record.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
     "Pasted image 20231213005250.png",
