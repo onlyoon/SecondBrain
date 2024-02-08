@@ -26,10 +26,28 @@ DFS(정점) {
     }
 }
 ```
+
+```js
+    DFS(sVertex) { // <- 인자: 시작 정점
+        const result = []; // 결과 리스트
+        const visited = {}; // 방문되었다는 표시의 객체
+        const adjacencyList = this.adjacencyList; // 그래프
+        (function dfs(vertex) { // 헬퍼함수 <- IIFE 사용, 첫 인자: sVertex
+            if (!vertex) return null; // <- 정점이 비었다면? 
+            visited[vertex] = true; // 방문되었다는 표시
+            result.push(vertex); // <- 결과 리스트에 정점 삽입
+            adjacencyList[vertex].forEach(neighbor => { // <- 그래프에서 vertex와 이웃된 값들을 돈다.
+                if (!visited[neighbor]) { // <- 만일 인접한 노드가 방문되지 않았을 경우
+                    return dfs(neighbor); // <- 새로운 헬퍼 함수를 호출
+                }
+            });
+        })(sVertex); // <- IIFE의 첫 시작 인자
+        return result;
+    }
+```
+
 #### 활용
 - P2P
 - Web 크롤링
 - 최단거리 검색, 추천 알고리즘, 가까운 친구 검색
-- 
-
 ### [Algorithm & DataStructure](../../../Dev-Index/Algorithm%20&%20DataStructure.md) Index로 돌아가기
