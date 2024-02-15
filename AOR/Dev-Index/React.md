@@ -8,6 +8,9 @@
 - [react-Lazy Loading](../Development/React/react-Lazy%20Loading.md)
 - [react-Static Website](../Development/React/react-Static%20Website.md)
 ---
+
+-  [JavaScript vs. React](../Development/React/JavaScript%20vs.%20React.md)
+- 
 ### React Query / Tanstack Query
 ---
 ### Next.js

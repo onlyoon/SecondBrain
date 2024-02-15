@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "AOR/Dev-Index/React.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AOR/Dev-Index/React.md"
               }
             }
           },
@@ -162,15 +162,16 @@
   },
   "active": "e0dd36a13b0978ff",
   "lastOpenFiles": [
+    "AOR/Development/React/JavaScript vs. React.md",
+    "AOR/Dev-Index/React.md",
+    "README.md",
     "AOR/Development/React/UMC/MPA.md",
     "SSR.png",
-    "AOR/Dev-Index/React.md",
     "AOR/Development/React/UMC",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/React/react-Component.md",
     "AOR/Development/Algorith & DataStructure/Graph/Graph순회.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "README.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
     "무제 파일.md",
     "AOR/Development/Algorith & DataStructure/Graph/인접 행렬.md",
