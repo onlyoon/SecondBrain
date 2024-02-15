@@ -1,47 +1,8 @@
 #index 
-[[../Development/React/react-Component]]
-### Get Start
----
-### JavaScript Refresher
----
-### React Basics & Working With Components
----
-### Time to Practice: Component Basics
----
-### React State & Working with Events
----
-### Rendering Lists & Conditional Content
----
-### Styling React Components
----
-### Debuggin React Apps
----
-### A Complete Pratice Project
----
-### Fragments, Portals & "Refs"
----
-### Handling Side Effects, Reducers & Context API
----
-### Building a Food Order App
----
-### Optimization & Behind The Scenes of React
----
-### Class-based Components
----
-### Custom React Hooks
----
-### Forms & User Input
----
-### Http & Forms
----
-### Redux
----
-### Advanced Redux
----
-### Multi-Page SPA with React Router
----
-### Authentication 
----
+[react-Component](../Development/React/react-Component.md)
+
+### UMC
+[MPA](../Development/React/UMC/MPA.md)
 ### Deployment
 - [react-Deploy Process](../Development/React/react-Deploy%20Process.md)
 - [react-Lazy Loading](../Development/React/react-Lazy%20Loading.md)
