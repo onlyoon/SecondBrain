@@ -4,21 +4,190 @@
     "type": "split",
     "children": [
       {
-        "id": "3ed3b7fe8e453835",
+        "id": "1a619dbfbda9940e",
         "type": "tabs",
         "children": [
           {
-            "id": "7bcfeb526921af64",
+            "id": "aaf5e666db83d4bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AOR/Dev-Index/JavaScript.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "e5b7609d0239bd41"
+          }
+        ]
+      },
+      {
+        "id": "f56a17c2fc2eaf9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc8a5e6a7b6cee4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4296351586724731,
+                  "close": false
+                }
+              }
+            },
+            "group": "e5b7609d0239bd41"
+          }
+        ]
+      },
+      {
+        "id": "3e8492454d6e7adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd46eee99d952e85",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e5b7609d0239bd41"
+          }
+        ]
+      },
+      {
+        "id": "88f01937068798e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f8f041459f53f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e5b7609d0239bd41"
+          }
+        ]
+      },
+      {
+        "id": "e1e4a40d89829c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a5bc91c4f8375d0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AOR/Dev-Index/JavaScript.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e5b7609d0239bd41"
           }
         ]
       }
@@ -96,7 +265,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "AOR/Dev-Index/JavaScript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +282,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "AOR/Dev-Index/JavaScript.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +294,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "AOR/Dev-Index/JavaScript.md"
           }
         }
       }
@@ -143,15 +312,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7bcfeb526921af64",
+  "active": "aaf5e666db83d4bf",
   "lastOpenFiles": [
+    "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/JavaScript/Advanced Function/js-REST 연산자.md",
+    "AOR/Development/JavaScript/About JavaScript/자바스크립트 엔진.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/Event Loop.md",
+    "AOR/Development/JavaScript/DOM/DOM Traversing.md",
+    "README.md",
+    "AOR/Dev-Index/Svelte.md",
+    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-style 태그.md",
+    "AOR/Development/Svelte/Base Syntax & Core Features/svelte-동적 CSS class 설정.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/js-Data Management.md",
+    "AOR/Development/JavaScript/ES5 vs. ES6/ECMAScripts.md",
     "AOR/Development/JavaScript/Function Deep Dive/Closure.md",
     "AOR/Development/JavaScript/Advanced Function/Callback Function.md",
     "AOR/Development/JavaScript/Promise & Callback/Promise.md",
     "AOR/Development/JavaScript/JavaScript Library/Axios.md",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/JavaScript/Event/event.preventDefault().md",
-    "README.md",
     "AOR/Development/JavaScript/Function Deep Dive/js-Side Effect.md",
     "AOR/Development/JavaScript/Network Requests/fetch API.md",
     "AOR/Development/JavaScript/Network Requests/FormData.md",
@@ -159,18 +338,8 @@
     "AOR/Development/JavaScript/Basic Grammar/js-Variable.md",
     "Home.md",
     "AOR/Development/JavaScript/Object Oriental Programming/js-Class.md",
-    "AOR/Development/JavaScript/Object Oriental Programming/js-Object Oriental Programming.md",
     "Dynamic Programming.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
-    "z-index.md",
-    "AOR/Dev-Index/CSS.md",
-    "css-position.md",
-    "CSS.md",
-    "AOR/Dev-Index/Svelte.md",
-    "XMLHttpRequest.md",
-    "AOR/Development/JavaScript/Event/Event Bubbling.md",
-    "Callback Function.md",
-    "AOR/Development/CSS/css-BEM Method.md",
     "Untitled",
     "AOR/Diary",
     "Pasted image 20230925191342.png",
