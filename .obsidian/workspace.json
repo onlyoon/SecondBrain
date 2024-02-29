@@ -11,13 +11,8 @@
             "id": "2fe24b85ec4d7fb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50499725341797,
-    "collapsed": true
+    "width": 244.50499725341797
   },
   "right": {
     "id": "b9429df971e5c4eb",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,9 +153,9 @@
   },
   "active": "2fe24b85ec4d7fb1",
   "lastOpenFiles": [
+    "README.md",
     "AOR/Development/React/JavaScript vs. React.md",
     "AOR/Dev-Index/React.md",
-    "README.md",
     "AOR/Development/React/UMC/MPA.md",
     "SSR.png",
     "AOR/Development/React/UMC",
