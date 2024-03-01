@@ -8,7 +8,7 @@
 
 #### **SSR**(Server Side Rendering) 렌더링 방식
 - 서버측에서 요청을 받은 후, 서버단에서 렌더링 준비를 마친 상태가 되면 클라이언트에 전달
-![](../../../../SSR.png)
+![](../../../../Stuff/Image/AOR/React/SSR.png)
 #### 장/단점
 장점
    - SEO(Search Engine Optimization) - 검색엔진 최적화 유리

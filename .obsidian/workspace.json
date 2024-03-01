@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fe24b85ec4d7fb1",
+            "id": "50314b97fb6df293",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -151,36 +160,40 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2fe24b85ec4d7fb1",
+  "active": "50314b97fb6df293",
   "lastOpenFiles": [
+    "AOR/Dev-Index/TypeScript.md",
+    "AOR/Development/TypeScript/Cannot redeclare block-scoped variable 'xxxxx'.ts(2451).md",
+    "AOR/Dev-Index/JavaScript.md",
+    "AOR/Development/TypeScript/typescrypt-type.md",
+    "타입 추론.md",
+    "AOR/Development/TypeScript/what is TypeScript.md",
+    "AOR/Development/Svelte/tweened.md",
     "README.md",
+    "Svelte 프로젝트 하면서 알게 된 것들.md",
+    "알고리즘 기말고사.md",
+    "멘토링.md",
+    "무제 파일.md",
+    "면접.md",
+    "4.md",
+    "1_QG6GNe2ag-4puxpjc5Y2iw.avif",
+    "Stuff/Image/AOR/React/SSR.png",
+    "Stuff/Image/AOR/React",
+    "Local Storage.md",
+    "js-함수 선언 & 표현식.md",
+    "2024-01-31.md",
+    "2024-01-16.md",
+    "AOR/Development/TypeScript",
+    "AOR/Development/JavaScript/Browser Storage.md",
+    "AOR/Dev-Index/무제 폴더",
     "AOR/Development/React/JavaScript vs. React.md",
     "AOR/Dev-Index/React.md",
     "AOR/Development/React/UMC/MPA.md",
-    "SSR.png",
     "AOR/Development/React/UMC",
-    "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/React/react-Component.md",
     "AOR/Development/Algorith & DataStructure/Graph/Graph순회.md",
     "AOR/Dev-Index/Algorithm & DataStructure.md",
     "AOR/Development/JavaScript/Function Deep Dive/IIFE.md",
-    "무제 파일.md",
-    "AOR/Development/Algorith & DataStructure/Graph/인접 행렬.md",
-    "AOR/Development/Algorith & DataStructure/Graph/Graph.md",
-    "AOR/Development/Algorith & DataStructure/Graph/인접 리스트.md",
-    "2024-01-31.md",
-    "2024-01-16.md",
-    "tweened.md",
-    "AOR/Development/Blender/Blender-Viewport Shading.md",
-    "AOR/Dev-Index/Blender.md",
-    "AOR/Development/Blender/Blender-Object.md",
-    "AOR/Development/Blender/Blender-View.md",
-    "AOR/Dev-Index/Svelte.md",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-Component Life Cycle.md",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-Event Transmission.md",
-    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Inline Function.md",
-    "AOR/Development/Svelte/A Closer Look at Reactivity/svelte-Event Modifier.md",
-    "AOR/Development/Svelte/Components Deep Dive/svelte-let 지시.md",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207151610.png",
     "Stuff/Image/AOR/Blockchain/Pasted image 20231207153615.png",
     "Pasted image 20231213005250.png",
@@ -189,15 +202,11 @@
     "Pasted image 20231213010011.png",
     "Pasted image 20231213005917.png",
     "Pasted image 20231213005856.png",
-    "Pasted image 20231213005658.png",
     "Stuff/Image/AOR/Algorithm & DataStructure/prefix sum.gif.crdownload",
     "AOR/Development/Algorith & DataStructure/Graph",
     "AOR/Development/Algorith & DataStructure/Sort",
     "AOR/Development/Algorith & DataStructure/Dynamic Programming",
     "AOR/Development/Computer Structure/명령어",
-    "AOR/Development/Computer Structure/제어장치",
-    "AOR/Development/JavaScript/Canvas API",
-    "Blog",
-    "AOR/Development/Algorith & DataStructure/Tree Traversal"
+    "AOR/Development/Computer Structure/제어장치"
   ]
 }
