@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab642ec820f77d74",
+        "id": "0afcd584a5f8b656",
         "type": "tabs",
         "children": [
           {
-            "id": "50314b97fb6df293",
+            "id": "e3598e8aa58eb814",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,16 +160,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "50314b97fb6df293",
+  "active": "e3598e8aa58eb814",
   "lastOpenFiles": [
     "AOR/Dev-Index/TypeScript.md",
+    "타입 추론.md",
+    "README.md",
     "AOR/Development/TypeScript/Cannot redeclare block-scoped variable 'xxxxx'.ts(2451).md",
     "AOR/Dev-Index/JavaScript.md",
     "AOR/Development/TypeScript/typescrypt-type.md",
-    "타입 추론.md",
     "AOR/Development/TypeScript/what is TypeScript.md",
     "AOR/Development/Svelte/tweened.md",
-    "README.md",
     "Svelte 프로젝트 하면서 알게 된 것들.md",
     "알고리즘 기말고사.md",
     "멘토링.md",
